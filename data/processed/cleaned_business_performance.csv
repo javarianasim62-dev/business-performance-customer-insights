@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,customer_name,region,segment,product,category,sales,profit,quantity,discount
+1,2023-01-01,1102,Ali Khan,East,Corporate,Printer,Furniture,2396.33,774.17,12,0.01
+2,2023-01-02,1270,John Smith,East,Corporate,Chair,Furniture,2283.77,1297.34,5,0.29
+3,2023-01-03,1106,Sara Ahmed,West,Consumer,Tablet,Office Supplies,4352.42,413.02,14,0.27
+4,2023-01-04,1071,John Smith,East,Home Office,Headphones,Furniture,2673.81,-201.13,12,0.11
+5,2023-01-05,1188,Michael Lee,East,Consumer,Laptop,Technology,2366.5,1359.87,7,0.21
+6,2023-01-06,1020,Sara Ahmed,South,Consumer,Headphones,Technology,2083.01,417.41,10,0.33
+7,2023-01-07,1102,Fatima Zahra,North,Corporate,Printer,Furniture,4097.24,-136.74,6,0.36
+8,2023-01-08,1121,Ayesha Noor,North,Consumer,Mobile,Furniture,4480.53,104.79,4,0.0
+9,2023-01-09,1214,John Smith,South,Corporate,Tablet,Office Supplies,4273.55,-398.39,7,0.47
+10,2023-01-10,1087,Sara Ahmed,South,Home Office,Laptop,Office Supplies,3384.06,436.6,10,0.08
+11,2023-01-11,1099,John Smith,West,Home Office,Desk,Office Supplies,729.94,1206.26,9,0.12
+12,2023-01-12,1151,Sara Ahmed,West,Home Office,Tablet,Furniture,1420.51,1367.16,10,0.13
+13,2023-01-13,1130,Ali Khan,West,Consumer,Chair,Office Supplies,278.01,1365.2,10,0.02
+14,2023-01-14,1149,Fatima Zahra,South,Corporate,Headphones,Office Supplies,4657.58,-249.54,13,0.06
+15,2023-01-15,1257,John Smith,South,Home Office,Laptop,Technology,3320.95,264.11,7,0.49
+16,2023-01-16,1293,Ayesha Noor,East,Corporate,Tablet,Office Supplies,3744.5,-443.54,12,0.16
+17,2023-01-17,1191,Ayesha Noor,West,Corporate,Headphones,Technology,1592.28,1210.33,14,0.06
+18,2023-01-18,1276,Michael Lee,West,Home Office,Laptop,Technology,4235.98,217.51,5,0.05
+19,2023-01-19,1160,Sara Ahmed,West,Home Office,Printer,Office Supplies,1335.04,762.23,7,0.36
+20,2023-01-20,1021,John Smith,North,Corporate,Tablet,Technology,58.14,929.8,3,0.43
+21,2023-01-21,1252,Michael Lee,East,Home Office,Printer,Furniture,1913.25,359.69,2,0.13
+22,2023-01-22,1235,John Smith,West,Corporate,Tablet,Furniture,2875.27,112.88,11,0.01
+23,2023-01-23,1048,Sara Ahmed,West,Corporate,Printer,Office Supplies,2419.59,1424.43,5,0.11
+24,2023-01-24,1058,Ayesha Noor,West,Home Office,Headphones,Furniture,4317.28,1428.98,4,0.03
+25,2023-01-25,1169,Ali Khan,North,Consumer,Desk,Technology,571.76,78.87,5,0.05
+26,2023-01-26,1187,Ayesha Noor,North,Home Office,Tablet,Furniture,2791.43,459.25,8,0.22
+27,2023-01-27,1270,Michael Lee,South,Consumer,Tablet,Office Supplies,2589.25,1445.69,12,0.11
+28,2023-01-28,1189,Fatima Zahra,East,Corporate,Printer,Office Supplies,1442.9,-490.26,4,0.26
+29,2023-01-29,1174,Ali Khan,South,Corporate,Laptop,Technology,4120.03,325.36,9,0.13
+30,2023-01-30,1050,Michael Lee,East,Consumer,Tablet,Office Supplies,3776.6,-299.08,7,0.47
+31,2023-01-31,1054,Sara Ahmed,North,Corporate,Printer,Furniture,3677.65,518.32,10,0.45
+32,2023-02-01,1243,Ali Khan,West,Consumer,Mobile,Office Supplies,4387.15,-450.66,13,0.28
+33,2023-02-02,1130,Michael Lee,South,Consumer,Printer,Technology,3627.78,313.8,12,0.18
+34,2023-02-03,1134,Sara Ahmed,West,Corporate,Headphones,Office Supplies,1197.61,-58.6,7,0.19
+35,2023-02-04,1020,Ayesha Noor,South,Consumer,Desk,Furniture,3542.54,566.62,13,0.21
+36,2023-02-05,1166,Fatima Zahra,North,Home Office,Mobile,Technology,1573.13,1491.99,13,0.36
+37,2023-02-06,1273,Sara Ahmed,North,Home Office,Headphones,Furniture,1248.76,1101.07,8,0.23
+38,2023-02-07,1088,John Smith,North,Corporate,Headphones,Technology,411.37,1191.28,12,0.43
+39,2023-02-08,1013,Sara Ahmed,South,Corporate,Headphones,Office Supplies,3732.94,770.53,6,0.47
+40,2023-02-09,1241,Sara Ahmed,East,Consumer,Laptop,Technology,3569.45,-416.88,8,0.17
+41,2023-02-10,1264,Fatima Zahra,South,Consumer,Headphones,Technology,1210.77,-86.4,3,0.28
+42,2023-02-11,1052,John Smith,East,Consumer,Laptop,Office Supplies,3759.43,1350.13,10,0.05
+43,2023-02-12,1091,Michael Lee,South,Consumer,Headphones,Furniture,4593.31,232.23,10,0.1
+44,2023-02-13,1263,Michael Lee,South,Home Office,Chair,Office Supplies,584.74,-292.73,14,0.21
+45,2023-02-14,1034,Sara Ahmed,North,Home Office,Mobile,Technology,1201.55,904.81,1,0.1
+46,2023-02-15,1205,John Smith,West,Corporate,Chair,Office Supplies,3763.79,98.92,6,0.44
+47,2023-02-16,1080,John Smith,West,Consumer,Headphones,Technology,1408.81,37.71,1,0.08
+48,2023-02-17,1049,Fatima Zahra,East,Consumer,Mobile,Office Supplies,3142.09,1495.95,9,0.23
+49,2023-02-18,1001,Ayesha Noor,West,Corporate,Mobile,Office Supplies,451.76,1216.28,14,0.3
+50,2023-02-19,1053,Michael Lee,South,Consumer,Tablet,Furniture,2288.4,315.88,2,0.35
+51,2023-02-20,1105,Fatima Zahra,South,Consumer,Desk,Technology,3708.5,1460.52,11,0.19
+52,2023-02-21,1259,Ali Khan,North,Consumer,Chair,Furniture,3448.24,800.23,2,0.43
+53,2023-02-22,1190,Michael Lee,North,Consumer,Desk,Technology,4084.61,984.04,7,0.28
+54,2023-02-23,1217,Fatima Zahra,West,Consumer,Mobile,Office Supplies,4393.39,-436.97,2,0.22
+55,2023-02-24,1043,Michael Lee,East,Corporate,Laptop,Technology,3877.26,-256.79,10,0.03
+56,2023-02-25,1161,Ayesha Noor,West,Consumer,Mobile,Furniture,3374.36,766.17,8,0.23
+57,2023-02-26,1201,Ali Khan,West,Corporate,Desk,Furniture,207.03,1298.05,6,0.41
+58,2023-02-27,1269,Ayesha Noor,West,Consumer,Chair,Furniture,2698.09,747.49,14,0.31
+59,2023-02-28,1270,Ali Khan,West,Home Office,Headphones,Technology,236.6,-231.95,7,0.42
+60,2023-03-01,1214,Sara Ahmed,South,Home Office,Tablet,Furniture,4049.94,-268.48,7,0.25
+61,2023-03-02,1251,Fatima Zahra,East,Home Office,Tablet,Furniture,1637.59,1188.37,6,0.06
+62,2023-03-03,1189,Ali Khan,South,Home Office,Tablet,Furniture,2834.03,-221.4,10,0.01
+63,2023-03-04,1295,Ayesha Noor,East,Corporate,Headphones,Office Supplies,1433.25,540.46,11,0.15
+64,2023-03-05,1212,Michael Lee,North,Corporate,Tablet,Office Supplies,3923.38,-425.77,9,0.35
+65,2023-03-06,1207,Ali Khan,West,Consumer,Chair,Technology,4438.19,-338.66,13,0.4
+66,2023-03-07,1236,Fatima Zahra,South,Home Office,Headphones,Technology,2023.28,844.7,9,0.15
+67,2023-03-08,1052,Ali Khan,East,Corporate,Tablet,Furniture,4321.47,878.36,7,0.25
+68,2023-03-09,1279,John Smith,North,Consumer,Headphones,Office Supplies,1372.02,182.94,9,0.21
+69,2023-03-10,1216,Michael Lee,North,Consumer,Desk,Furniture,2696.57,-68.78,13,0.21
+70,2023-03-11,1251,Fatima Zahra,West,Corporate,Chair,Furniture,4300.87,1127.42,10,0.12
+71,2023-03-12,1187,Fatima Zahra,East,Home Office,Printer,Office Supplies,1663.11,-65.79,3,0.07
+72,2023-03-13,1040,Sara Ahmed,South,Consumer,Laptop,Office Supplies,4772.51,584.05,3,0.1
+73,2023-03-14,1156,Ayesha Noor,West,Home Office,Tablet,Office Supplies,653.3,1436.42,1,0.03
+74,2023-03-15,1014,Sara Ahmed,South,Home Office,Laptop,Technology,140.46,-204.3,5,0.1
+75,2023-03-16,1064,Fatima Zahra,North,Home Office,Headphones,Technology,4525.47,1381.75,4,0.0
+76,2023-03-17,1008,Michael Lee,South,Consumer,Laptop,Furniture,389.81,-134.21,2,0.31
+77,2023-03-18,1128,Ali Khan,South,Home Office,Chair,Technology,4959.85,634.89,9,0.16
+78,2023-03-19,1135,Ali Khan,West,Consumer,Chair,Office Supplies,4759.41,254.02,3,0.49
+79,2023-03-20,1062,Michael Lee,South,Home Office,Mobile,Office Supplies,728.25,1429.86,8,0.1
+80,2023-03-21,1138,Fatima Zahra,West,Consumer,Tablet,Technology,2711.04,47.08,6,0.17
+81,2023-03-22,1080,Ali Khan,North,Home Office,Mobile,Furniture,965.36,299.32,14,0.18
+82,2023-03-23,1162,Ali Khan,West,Corporate,Laptop,Furniture,2169.37,1465.72,13,0.0
+83,2023-03-24,1288,Ali Khan,West,Home Office,Printer,Technology,354.05,572.94,5,0.42
+84,2023-03-25,1260,Ayesha Noor,East,Home Office,Mobile,Furniture,1158.43,505.26,1,0.02
+85,2023-03-26,1230,Ayesha Noor,South,Consumer,Mobile,Furniture,1848.2,15.56,4,0.47
+86,2023-03-27,1040,John Smith,North,Consumer,Chair,Furniture,2221.31,902.73,3,0.45
+87,2023-03-28,1027,Sara Ahmed,West,Home Office,Printer,Office Supplies,4888.61,-471.25,1,0.27
+88,2023-03-29,1134,Michael Lee,North,Corporate,Headphones,Office Supplies,4048.93,-400.97,12,0.27
+89,2023-03-30,1200,Michael Lee,East,Corporate,Laptop,Technology,3700.18,698.72,5,0.33
+90,2023-03-31,1267,Michael Lee,South,Consumer,Mobile,Office Supplies,2708.35,183.35,6,0.19
+91,2023-04-01,1032,John Smith,West,Corporate,Printer,Furniture,4207.99,1406.63,2,0.32
+92,2023-04-02,1047,Ayesha Noor,South,Home Office,Tablet,Office Supplies,1729.65,1306.38,14,0.02
+93,2023-04-03,1061,Fatima Zahra,East,Consumer,Printer,Technology,3559.05,927.41,3,0.03
+94,2023-04-04,1215,Fatima Zahra,East,Home Office,Laptop,Office Supplies,4969.23,1136.29,11,0.23
+95,2023-04-05,1292,John Smith,North,Consumer,Printer,Furniture,1607.41,834.66,14,0.27
+96,2023-04-06,1098,Fatima Zahra,West,Consumer,Printer,Furniture,3386.39,-248.84,6,0.44
+97,2023-04-07,1171,Michael Lee,North,Consumer,Printer,Technology,4229.36,1031.09,4,0.05
+98,2023-04-08,1213,Sara Ahmed,East,Consumer,Tablet,Office Supplies,4583.25,-79.62,9,0.41
+99,2023-04-09,1034,Ali Khan,South,Corporate,Mobile,Office Supplies,3603.77,146.89,5,0.11
+100,2023-04-10,1226,Ayesha Noor,North,Home Office,Laptop,Office Supplies,1453.86,1138.47,4,0.2
+101,2023-04-11,1100,Ayesha Noor,North,Home Office,Tablet,Furniture,1665.1,573.05,2,0.16
+102,2023-04-12,1130,John Smith,South,Home Office,Printer,Technology,152.75,1219.88,6,0.2
+103,2023-04-13,1256,Ayesha Noor,North,Consumer,Printer,Office Supplies,3816.39,-73.93,10,0.08
+104,2023-04-14,1004,Michael Lee,South,Corporate,Mobile,Furniture,261.56,715.56,2,0.25
+105,2023-04-15,1217,Fatima Zahra,West,Home Office,Laptop,Furniture,4330.03,-332.42,12,0.4
+106,2023-04-16,1254,Michael Lee,South,Corporate,Chair,Furniture,637.37,786.12,13,0.22
+107,2023-04-17,1282,John Smith,West,Consumer,Tablet,Office Supplies,900.79,1025.07,7,0.25
+108,2023-04-18,1206,Michael Lee,South,Home Office,Mobile,Office Supplies,2408.81,669.86,3,0.42
+109,2023-04-19,1014,Fatima Zahra,East,Corporate,Laptop,Office Supplies,3702.51,32.46,9,0.35
+110,2023-04-20,1041,Sara Ahmed,East,Consumer,Tablet,Office Supplies,738.06,-437.31,11,0.25
+111,2023-04-21,1178,John Smith,West,Corporate,Printer,Office Supplies,2228.35,-261.1,5,0.13
+112,2023-04-22,1062,Sara Ahmed,West,Home Office,Laptop,Office Supplies,2440.11,744.61,8,0.44
+113,2023-04-23,1230,Ali Khan,East,Home Office,Laptop,Office Supplies,1100.81,1368.84,11,0.29
+114,2023-04-24,1240,Sara Ahmed,West,Consumer,Headphones,Office Supplies,622.01,-86.93,6,0.11
+115,2023-04-25,1051,Ali Khan,South,Consumer,Laptop,Office Supplies,4190.28,970.05,14,0.13
+116,2023-04-26,1095,Ali Khan,South,Consumer,Chair,Furniture,2537.2,1232.9,12,0.4
+117,2023-04-27,1221,Sara Ahmed,East,Corporate,Laptop,Office Supplies,121.19,541.76,10,0.02
+118,2023-04-28,1230,John Smith,North,Corporate,Chair,Technology,4024.76,838.53,8,0.5
+119,2023-04-29,1236,Fatima Zahra,South,Corporate,Printer,Furniture,4904.93,1130.03,13,0.07
+120,2023-04-30,1142,Michael Lee,West,Consumer,Chair,Office Supplies,3049.33,21.35,13,0.4
+121,2023-05-01,1170,Michael Lee,North,Home Office,Tablet,Technology,2543.36,93.79,11,0.2
+122,2023-05-02,1028,Fatima Zahra,North,Home Office,Printer,Office Supplies,4398.16,-498.74,12,0.25
+123,2023-05-03,1035,Ali Khan,South,Corporate,Printer,Technology,4764.96,1426.19,3,0.44
+124,2023-05-04,1012,Ali Khan,South,Corporate,Chair,Technology,3784.96,1335.09,3,0.21
+125,2023-05-05,1159,John Smith,North,Home Office,Mobile,Technology,2254.99,1029.14,5,0.27
+126,2023-05-06,1186,Ayesha Noor,North,Home Office,Desk,Technology,2981.5,-341.85,11,0.02
+127,2023-05-07,1242,Sara Ahmed,East,Corporate,Laptop,Furniture,3519.63,395.01,10,0.0
+128,2023-05-08,1085,Ali Khan,West,Corporate,Headphones,Furniture,1011.65,-296.22,3,0.12
+129,2023-05-09,1283,Michael Lee,East,Home Office,Desk,Technology,2263.65,-468.16,8,0.34
+130,2023-05-10,1065,John Smith,South,Consumer,Laptop,Office Supplies,4157.62,732.37,10,0.06
+131,2023-05-11,1169,Sara Ahmed,East,Corporate,Laptop,Technology,3290.89,1421.66,13,0.06
+132,2023-05-12,1044,John Smith,East,Home Office,Printer,Furniture,2085.46,1305.74,12,0.21
+133,2023-05-13,1061,Sara Ahmed,East,Home Office,Laptop,Office Supplies,3333.64,893.51,14,0.32
+134,2023-05-14,1133,Sara Ahmed,East,Home Office,Headphones,Furniture,635.2,-306.72,8,0.36
+135,2023-05-15,1283,Fatima Zahra,West,Home Office,Laptop,Furniture,2037.41,48.33,2,0.09
+136,2023-05-16,1027,Ali Khan,West,Consumer,Chair,Office Supplies,3975.99,140.11,12,0.04
+137,2023-05-17,1107,John Smith,North,Home Office,Desk,Technology,1141.52,1026.3,4,0.47
+138,2023-05-18,1043,John Smith,South,Corporate,Chair,Technology,970.51,1104.5,10,0.13
+139,2023-05-19,1285,Fatima Zahra,East,Consumer,Headphones,Technology,4756.55,270.21,13,0.43
+140,2023-05-20,1127,Michael Lee,North,Home Office,Laptop,Technology,1088.99,335.77,1,0.43
+141,2023-05-21,1230,Michael Lee,North,Consumer,Tablet,Office Supplies,1341.55,-410.98,4,0.39
+142,2023-05-22,1189,Ali Khan,North,Corporate,Headphones,Office Supplies,4849.6,78.27,12,0.08
+143,2023-05-23,1224,Ali Khan,West,Home Office,Printer,Office Supplies,3686.81,402.57,13,0.41
+144,2023-05-24,1282,Ayesha Noor,East,Corporate,Chair,Furniture,3513.0,-266.03,13,0.38
+145,2023-05-25,1120,Fatima Zahra,East,Home Office,Chair,Office Supplies,4271.99,406.53,11,0.3
+146,2023-05-26,1115,Michael Lee,South,Home Office,Mobile,Technology,623.32,1206.35,13,0.17
+147,2023-05-27,1232,Sara Ahmed,East,Home Office,Laptop,Furniture,3544.48,662.64,4,0.13
+148,2023-05-28,1258,John Smith,East,Home Office,Printer,Technology,2543.26,-342.14,10,0.06
+149,2023-05-29,1197,Ali Khan,North,Home Office,Tablet,Technology,4154.3,-116.66,9,0.25
+150,2023-05-30,1136,John Smith,South,Consumer,Chair,Office Supplies,2565.3,449.09,3,0.29
+151,2023-05-31,1164,John Smith,East,Home Office,Chair,Office Supplies,3120.19,222.97,2,0.18
+152,2023-06-01,1224,Ayesha Noor,West,Home Office,Printer,Technology,2414.82,217.45,9,0.24
+153,2023-06-02,1233,Michael Lee,East,Consumer,Headphones,Technology,2416.89,558.53,9,0.18
+154,2023-06-03,1171,Ali Khan,North,Consumer,Headphones,Furniture,3851.45,668.79,1,0.32
+155,2023-06-04,1151,John Smith,West,Consumer,Laptop,Office Supplies,3161.4,1093.72,6,0.45
+156,2023-06-05,1159,Ali Khan,North,Consumer,Mobile,Furniture,3184.65,181.93,10,0.08
+157,2023-06-06,1095,Sara Ahmed,East,Consumer,Chair,Furniture,2278.9,1110.93,8,0.19
+158,2023-06-07,1232,Ayesha Noor,West,Consumer,Mobile,Furniture,2678.99,177.22,3,0.07
+159,2023-06-08,1179,Sara Ahmed,South,Home Office,Headphones,Technology,3741.3,-389.13,11,0.31
+160,2023-06-09,1112,Ali Khan,South,Home Office,Headphones,Furniture,4138.41,608.38,9,0.36
+161,2023-06-10,1051,Ali Khan,West,Corporate,Desk,Furniture,3497.98,675.8,2,0.47
+162,2023-06-11,1267,Michael Lee,West,Home Office,Tablet,Technology,4624.16,1369.08,6,0.14
+163,2023-06-12,1294,John Smith,North,Home Office,Laptop,Office Supplies,4110.6,952.12,1,0.48
+164,2023-06-13,1112,John Smith,West,Consumer,Desk,Office Supplies,2831.23,1335.55,13,0.03
+165,2023-06-14,1100,Sara Ahmed,North,Consumer,Tablet,Furniture,3373.46,1316.69,7,0.3
+166,2023-06-15,1112,Ayesha Noor,East,Home Office,Desk,Technology,4635.23,709.15,3,0.03
+167,2023-06-16,1080,Fatima Zahra,North,Corporate,Desk,Office Supplies,3114.88,555.52,7,0.45
+168,2023-06-17,1186,John Smith,West,Consumer,Laptop,Furniture,4132.79,614.88,4,0.26
+169,2023-06-18,1112,Michael Lee,West,Home Office,Laptop,Furniture,3459.61,1456.66,9,0.33
+170,2023-06-19,1001,Sara Ahmed,East,Home Office,Printer,Technology,2782.08,1046.34,5,0.42
+171,2023-06-20,1129,Sara Ahmed,West,Corporate,Mobile,Furniture,1247.1,-287.47,3,0.08
+172,2023-06-21,1219,Fatima Zahra,West,Corporate,Mobile,Office Supplies,2158.69,1056.86,8,0.02
+173,2023-06-22,1053,Michael Lee,South,Consumer,Printer,Technology,4840.33,-158.92,6,0.44
+174,2023-06-23,1223,Ayesha Noor,South,Corporate,Printer,Office Supplies,3305.94,394.7,2,0.16
+175,2023-06-24,1224,Michael Lee,East,Home Office,Headphones,Office Supplies,2843.76,-79.08,3,0.06
+176,2023-06-25,1125,Ayesha Noor,North,Home Office,Tablet,Office Supplies,4668.14,879.17,8,0.23
+177,2023-06-26,1129,Michael Lee,South,Corporate,Desk,Furniture,2953.23,1254.62,10,0.3
+178,2023-06-27,1052,Michael Lee,North,Corporate,Printer,Furniture,2654.11,80.72,7,0.02
+179,2023-06-28,1171,Ali Khan,West,Corporate,Chair,Office Supplies,3808.59,-335.98,10,0.14
+180,2023-06-29,1217,Sara Ahmed,South,Corporate,Mobile,Office Supplies,3577.69,96.99,6,0.02
+181,2023-06-30,1159,Michael Lee,East,Consumer,Printer,Technology,1006.14,844.72,14,0.21
+182,2023-07-01,1197,Fatima Zahra,East,Corporate,Chair,Technology,2382.98,157.52,1,0.45
+183,2023-07-02,1246,Michael Lee,East,Consumer,Chair,Furniture,2388.95,56.22,9,0.49
+184,2023-07-03,1202,John Smith,South,Home Office,Chair,Furniture,1922.21,-131.13,3,0.32
+185,2023-07-04,1183,Sara Ahmed,North,Corporate,Headphones,Technology,2610.6,495.03,14,0.08
+186,2023-07-05,1122,John Smith,West,Consumer,Headphones,Office Supplies,2094.88,51.9,5,0.45
+187,2023-07-06,1254,Sara Ahmed,North,Corporate,Chair,Furniture,1036.76,962.02,7,0.26
+188,2023-07-07,1293,John Smith,North,Home Office,Tablet,Office Supplies,2091.21,-346.76,7,0.08
+189,2023-07-08,1279,Michael Lee,West,Home Office,Headphones,Technology,407.77,828.07,3,0.46
+190,2023-07-09,1097,Michael Lee,West,Home Office,Desk,Furniture,2900.14,-24.88,4,0.38
+191,2023-07-10,1197,Ali Khan,South,Corporate,Chair,Furniture,4275.59,478.56,10,0.37
+192,2023-07-11,1239,Fatima Zahra,South,Corporate,Desk,Technology,3640.17,72.18,7,0.35
+193,2023-07-12,1143,John Smith,South,Consumer,Desk,Furniture,1833.95,945.54,8,0.1
+194,2023-07-13,1096,Ayesha Noor,South,Home Office,Chair,Technology,481.0,1390.61,2,0.11
+195,2023-07-14,1200,Ali Khan,South,Corporate,Mobile,Furniture,1050.64,1334.15,9,0.34
+196,2023-07-15,1123,John Smith,West,Home Office,Tablet,Technology,2750.18,666.85,7,0.11
+197,2023-07-16,1186,John Smith,North,Home Office,Chair,Furniture,1074.93,425.22,13,0.22
+198,2023-07-17,1258,Ali Khan,South,Consumer,Chair,Office Supplies,2742.67,1136.6,8,0.39
+199,2023-07-18,1147,Michael Lee,South,Consumer,Headphones,Office Supplies,1196.42,866.65,6,0.39
+200,2023-07-19,1251,John Smith,North,Consumer,Chair,Office Supplies,4252.17,-132.87,6,0.23
+201,2023-07-20,1146,Michael Lee,South,Consumer,Mobile,Furniture,2016.49,1141.84,9,0.4
+202,2023-07-21,1147,Ali Khan,North,Home Office,Headphones,Furniture,1265.48,357.77,4,0.42
+203,2023-07-22,1198,Michael Lee,North,Consumer,Laptop,Office Supplies,4071.01,-122.03,11,0.33
+204,2023-07-23,1127,Sara Ahmed,West,Consumer,Laptop,Office Supplies,1747.05,63.59,11,0.11
+205,2023-07-24,1038,Ayesha Noor,East,Consumer,Desk,Technology,601.86,35.05,5,0.14
+206,2023-07-25,1128,John Smith,West,Consumer,Tablet,Technology,2873.53,538.41,9,0.16
+207,2023-07-26,1266,Fatima Zahra,East,Home Office,Desk,Technology,2928.74,-31.26,1,0.06
+208,2023-07-27,1150,Ayesha Noor,East,Consumer,Mobile,Office Supplies,3587.74,-252.87,4,0.14
+209,2023-07-28,1297,Michael Lee,East,Home Office,Printer,Office Supplies,1239.09,-252.62,7,0.1
+210,2023-07-29,1098,John Smith,South,Corporate,Tablet,Office Supplies,2246.67,666.55,11,0.23
+211,2023-07-30,1262,Michael Lee,West,Home Office,Laptop,Technology,1447.72,969.52,9,0.45
+212,2023-07-31,1251,Sara Ahmed,East,Home Office,Desk,Furniture,450.72,143.07,14,0.05
+213,2023-08-01,1143,Ali Khan,North,Consumer,Laptop,Office Supplies,4389.24,-430.7,13,0.36
+214,2023-08-02,1111,John Smith,South,Corporate,Mobile,Furniture,3657.91,-245.55,11,0.34
+215,2023-08-03,1059,Sara Ahmed,West,Corporate,Mobile,Furniture,1542.24,1329.39,12,0.05
+216,2023-08-04,1001,Sara Ahmed,East,Corporate,Printer,Furniture,3016.9,487.09,13,0.46
+217,2023-08-05,1253,John Smith,North,Corporate,Printer,Technology,1046.26,407.15,10,0.28
+218,2023-08-06,1139,Michael Lee,West,Home Office,Headphones,Furniture,4456.67,-423.9,6,0.18
+219,2023-08-07,1036,Fatima Zahra,West,Corporate,Tablet,Office Supplies,618.79,957.27,12,0.38
+220,2023-08-08,1159,Sara Ahmed,South,Home Office,Mobile,Technology,68.99,556.14,8,0.13
+221,2023-08-09,1008,Ayesha Noor,West,Home Office,Desk,Office Supplies,2534.94,-95.84,13,0.35
+222,2023-08-10,1232,Sara Ahmed,South,Home Office,Laptop,Office Supplies,2936.48,-279.85,9,0.02
+223,2023-08-11,1098,Fatima Zahra,East,Corporate,Chair,Technology,2915.88,266.78,10,0.42
+224,2023-08-12,1146,Michael Lee,South,Consumer,Printer,Office Supplies,319.83,1174.32,4,0.22
+225,2023-08-13,1207,Michael Lee,North,Consumer,Chair,Office Supplies,1604.52,1230.59,1,0.32
+226,2023-08-14,1130,Ayesha Noor,South,Corporate,Desk,Technology,2521.03,705.69,14,0.11
+227,2023-08-15,1151,Sara Ahmed,North,Consumer,Printer,Office Supplies,1122.07,955.07,8,0.34
+228,2023-08-16,1053,Michael Lee,South,Consumer,Chair,Furniture,4369.5,-269.69,2,0.39
+229,2023-08-17,1119,Fatima Zahra,West,Home Office,Tablet,Office Supplies,481.19,676.25,11,0.24
+230,2023-08-18,1160,John Smith,East,Home Office,Desk,Furniture,2462.55,833.93,1,0.31
+231,2023-08-19,1115,Ali Khan,North,Corporate,Laptop,Office Supplies,3472.51,-98.57,13,0.23
+232,2023-08-20,1074,Ali Khan,South,Corporate,Tablet,Technology,1345.67,1260.31,7,0.45
+233,2023-08-21,1112,Ali Khan,South,Consumer,Desk,Technology,3139.99,-110.01,12,0.25
+234,2023-08-22,1103,Sara Ahmed,South,Home Office,Headphones,Office Supplies,4155.46,126.95,10,0.42
+235,2023-08-23,1253,Ayesha Noor,West,Corporate,Printer,Technology,992.17,741.11,9,0.4
+236,2023-08-24,1226,Michael Lee,West,Corporate,Mobile,Office Supplies,4590.24,776.7,11,0.21
+237,2023-08-25,1111,John Smith,North,Corporate,Laptop,Technology,2790.11,898.77,12,0.12
+238,2023-08-26,1098,Fatima Zahra,North,Corporate,Tablet,Furniture,1531.2,-275.98,12,0.2
+239,2023-08-27,1152,John Smith,West,Corporate,Tablet,Office Supplies,2182.75,1198.93,9,0.41
+240,2023-08-28,1193,Fatima Zahra,North,Corporate,Chair,Furniture,1595.35,565.69,3,0.11
+241,2023-08-29,1162,Sara Ahmed,East,Consumer,Printer,Furniture,3639.3,442.64,6,0.26
+242,2023-08-30,1207,Ali Khan,East,Home Office,Mobile,Office Supplies,3991.69,1462.2,7,0.4
+243,2023-08-31,1168,Sara Ahmed,West,Home Office,Desk,Furniture,4173.04,980.76,14,0.18
+244,2023-09-01,1160,Ayesha Noor,North,Corporate,Mobile,Office Supplies,4929.55,-263.99,10,0.32
+245,2023-09-02,1067,Ayesha Noor,South,Home Office,Printer,Furniture,3966.86,1013.08,9,0.12
+246,2023-09-03,1288,Fatima Zahra,East,Home Office,Printer,Office Supplies,3026.85,-309.5,2,0.05
+247,2023-09-04,1276,Michael Lee,West,Home Office,Headphones,Office Supplies,1729.14,-445.06,8,0.4
+248,2023-09-05,1134,Michael Lee,North,Corporate,Headphones,Technology,2745.75,307.25,14,0.05
+249,2023-09-06,1194,Fatima Zahra,West,Corporate,Mobile,Office Supplies,253.29,1487.16,7,0.14
+250,2023-09-07,1127,Ayesha Noor,South,Home Office,Desk,Office Supplies,3736.88,-150.23,4,0.43
+251,2023-09-08,1032,Ayesha Noor,East,Home Office,Mobile,Furniture,2257.48,845.29,2,0.17
+252,2023-09-09,1175,Ayesha Noor,West,Corporate,Printer,Office Supplies,149.11,-153.21,8,0.49
+253,2023-09-10,1021,Sara Ahmed,West,Consumer,Printer,Technology,359.41,949.57,11,0.49
+254,2023-09-11,1237,Ayesha Noor,West,Home Office,Chair,Furniture,1967.96,510.71,5,0.13
+255,2023-09-12,1157,John Smith,South,Consumer,Headphones,Furniture,2937.94,859.94,6,0.02
+256,2023-09-13,1037,Ali Khan,West,Home Office,Chair,Technology,2347.81,-94.25,14,0.35
+257,2023-09-14,1229,Ayesha Noor,South,Consumer,Laptop,Furniture,3115.06,991.26,11,0.23
+258,2023-09-15,1050,Fatima Zahra,South,Consumer,Printer,Furniture,2427.46,1491.24,7,0.05
+259,2023-09-16,1263,Ali Khan,South,Consumer,Chair,Furniture,3325.43,831.3,10,0.35
+260,2023-09-17,1282,Sara Ahmed,East,Corporate,Mobile,Furniture,1134.67,486.96,1,0.02
+261,2023-09-18,1026,Fatima Zahra,East,Consumer,Headphones,Technology,608.57,1346.35,8,0.44
+262,2023-09-19,1225,Ali Khan,West,Consumer,Headphones,Technology,3002.35,-468.3,4,0.07
+263,2023-09-20,1276,Fatima Zahra,West,Consumer,Desk,Furniture,2449.21,959.85,13,0.06
+264,2023-09-21,1285,Sara Ahmed,East,Home Office,Mobile,Furniture,182.99,1277.49,9,0.09
+265,2023-09-22,1096,John Smith,North,Consumer,Desk,Technology,1933.39,-376.65,1,0.48
+266,2023-09-23,1283,Sara Ahmed,East,Home Office,Chair,Technology,575.32,400.13,11,0.35
+267,2023-09-24,1146,Sara Ahmed,South,Consumer,Tablet,Technology,2680.22,-90.56,2,0.4
+268,2023-09-25,1003,Fatima Zahra,East,Consumer,Laptop,Furniture,2009.1,633.04,14,0.2
+269,2023-09-26,1034,Michael Lee,South,Corporate,Mobile,Furniture,3085.1,799.09,6,0.17
+270,2023-09-27,1191,Ayesha Noor,West,Home Office,Mobile,Office Supplies,4037.73,105.25,11,0.12
+271,2023-09-28,1048,Ayesha Noor,North,Consumer,Mobile,Technology,1533.36,419.96,10,0.24
+272,2023-09-29,1016,John Smith,West,Home Office,Desk,Furniture,4812.41,58.68,11,0.28
+273,2023-09-30,1171,John Smith,South,Home Office,Chair,Technology,2701.39,238.78,14,0.32
+274,2023-10-01,1219,Ayesha Noor,South,Corporate,Mobile,Furniture,3110.54,-180.92,1,0.13
+275,2023-10-02,1157,Michael Lee,South,Corporate,Tablet,Technology,3419.33,1271.12,4,0.47
+276,2023-10-03,1045,Ayesha Noor,North,Corporate,Mobile,Furniture,3350.32,-479.98,8,0.08
+277,2023-10-04,1005,Michael Lee,East,Corporate,Headphones,Office Supplies,2579.31,1264.82,10,0.48
+278,2023-10-05,1098,John Smith,West,Corporate,Laptop,Office Supplies,2172.38,643.36,5,0.01
+279,2023-10-06,1232,Ali Khan,West,Corporate,Headphones,Technology,316.22,163.32,13,0.24
+280,2023-10-07,1036,Fatima Zahra,East,Corporate,Headphones,Furniture,159.32,946.11,9,0.17
+281,2023-10-08,1279,John Smith,West,Corporate,Laptop,Furniture,1821.91,515.5,11,0.22
+282,2023-10-09,1180,John Smith,North,Consumer,Tablet,Technology,1701.62,498.22,11,0.29
+283,2023-10-10,1094,Sara Ahmed,West,Home Office,Chair,Furniture,1969.09,-279.72,6,0.22
+284,2023-10-11,1098,Sara Ahmed,South,Corporate,Headphones,Technology,734.92,279.03,1,0.21
+285,2023-10-12,1187,Sara Ahmed,East,Corporate,Chair,Furniture,3703.93,-17.87,6,0.37
+286,2023-10-13,1115,Fatima Zahra,North,Home Office,Headphones,Technology,4291.97,-468.61,6,0.34
+287,2023-10-14,1190,Sara Ahmed,East,Consumer,Printer,Furniture,4696.64,220.2,13,0.42
+288,2023-10-15,1252,Michael Lee,North,Home Office,Laptop,Technology,2487.19,-320.36,6,0.12
+289,2023-10-16,1160,Ayesha Noor,South,Home Office,Headphones,Furniture,3519.29,13.66,8,0.3
+290,2023-10-17,1255,Ali Khan,East,Corporate,Printer,Office Supplies,4284.98,-314.97,6,0.29
+291,2023-10-18,1127,John Smith,West,Home Office,Desk,Furniture,2120.54,-298.12,5,0.18
+292,2023-10-19,1017,Michael Lee,North,Home Office,Printer,Technology,1581.59,-101.98,11,0.24
+293,2023-10-20,1280,Ali Khan,East,Corporate,Mobile,Office Supplies,4686.79,1499.7,2,0.16
+294,2023-10-21,1222,Michael Lee,West,Corporate,Headphones,Furniture,2602.6,-495.63,4,0.07
+295,2023-10-22,1053,Michael Lee,East,Corporate,Printer,Office Supplies,2511.41,777.35,14,0.11
+296,2023-10-23,1057,John Smith,East,Corporate,Chair,Furniture,933.16,-217.51,10,0.05
+297,2023-10-24,1173,Ayesha Noor,East,Home Office,Desk,Office Supplies,585.37,1341.26,5,0.34
+298,2023-10-25,1279,Sara Ahmed,North,Home Office,Tablet,Technology,4218.43,-312.73,10,0.33
+299,2023-10-26,1113,Fatima Zahra,West,Consumer,Headphones,Furniture,3089.96,1410.13,4,0.48
+300,2023-10-27,1287,Ayesha Noor,South,Consumer,Mobile,Furniture,1662.83,721.85,2,0.36
+301,2023-10-28,1150,Fatima Zahra,North,Home Office,Tablet,Technology,999.09,-497.46,7,0.03
+302,2023-10-29,1126,John Smith,North,Consumer,Printer,Office Supplies,2799.71,1288.01,10,0.44
+303,2023-10-30,1154,John Smith,North,Home Office,Tablet,Technology,2940.4,543.42,10,0.43
+304,2023-10-31,1272,John Smith,South,Consumer,Tablet,Technology,1074.62,25.34,2,0.22
+305,2023-11-01,1103,Ali Khan,West,Corporate,Desk,Office Supplies,4264.46,1034.56,1,0.29
+306,2023-11-02,1298,Fatima Zahra,West,Consumer,Tablet,Technology,467.11,1353.33,14,0.49
+307,2023-11-03,1245,Ayesha Noor,West,Corporate,Tablet,Furniture,1812.66,467.38,5,0.27
+308,2023-11-04,1175,Ayesha Noor,East,Corporate,Headphones,Furniture,3417.9,131.11,12,0.45
+309,2023-11-05,1038,Michael Lee,East,Corporate,Desk,Furniture,1406.9,1077.89,13,0.04
+310,2023-11-06,1169,Michael Lee,East,Corporate,Mobile,Technology,4146.99,863.57,1,0.1
+311,2023-11-07,1246,Michael Lee,South,Consumer,Printer,Furniture,3712.35,1277.5,1,0.22
+312,2023-11-08,1025,John Smith,East,Home Office,Desk,Furniture,3955.66,885.03,1,0.29
+313,2023-11-09,1012,Ayesha Noor,South,Corporate,Desk,Furniture,639.58,-12.94,6,0.41
+314,2023-11-10,1035,Fatima Zahra,West,Consumer,Laptop,Furniture,745.71,1363.32,9,0.49
+315,2023-11-11,1172,John Smith,East,Corporate,Desk,Furniture,1468.05,-290.33,10,0.19
+316,2023-11-12,1019,Ali Khan,East,Consumer,Laptop,Furniture,2614.48,35.89,13,0.02
+317,2023-11-13,1263,Michael Lee,North,Consumer,Printer,Technology,3752.68,540.39,11,0.4
+318,2023-11-14,1141,John Smith,South,Consumer,Tablet,Furniture,4190.83,631.48,12,0.3
+319,2023-11-15,1142,John Smith,West,Home Office,Headphones,Furniture,3536.46,-469.38,1,0.1
+320,2023-11-16,1091,Ali Khan,North,Consumer,Headphones,Office Supplies,4646.55,1061.15,5,0.25
+321,2023-11-17,1287,Sara Ahmed,North,Consumer,Printer,Technology,3706.78,223.21,9,0.37
+322,2023-11-18,1214,Ayesha Noor,West,Home Office,Printer,Technology,1566.03,312.84,14,0.39
+323,2023-11-19,1050,Fatima Zahra,North,Home Office,Chair,Technology,1362.15,1118.74,9,0.25
+324,2023-11-20,1152,Sara Ahmed,South,Consumer,Tablet,Technology,3496.15,258.57,1,0.15
+325,2023-11-21,1185,Michael Lee,South,Home Office,Printer,Furniture,1004.71,-405.55,8,0.49
+326,2023-11-22,1062,John Smith,East,Corporate,Desk,Furniture,508.94,-147.12,1,0.33
+327,2023-11-23,1189,Ali Khan,North,Corporate,Headphones,Office Supplies,2684.5,1411.81,8,0.2
+328,2023-11-24,1124,Ali Khan,East,Home Office,Mobile,Office Supplies,4117.13,-359.19,1,0.14
+329,2023-11-25,1149,Ayesha Noor,North,Home Office,Headphones,Technology,551.83,209.86,12,0.37
+330,2023-11-26,1057,Sara Ahmed,South,Consumer,Laptop,Office Supplies,3969.86,506.36,5,0.12
+331,2023-11-27,1179,Ayesha Noor,South,Home Office,Headphones,Office Supplies,4067.28,486.56,8,0.09
+332,2023-11-28,1169,John Smith,South,Consumer,Chair,Technology,2437.26,-492.08,6,0.26
+333,2023-11-29,1270,Ayesha Noor,North,Corporate,Tablet,Technology,333.69,502.33,9,0.14
+334,2023-11-30,1053,Fatima Zahra,South,Home Office,Printer,Office Supplies,914.22,267.54,1,0.31
+335,2023-12-01,1100,Ali Khan,North,Consumer,Tablet,Furniture,3551.76,1444.16,9,0.06
+336,2023-12-02,1263,Ali Khan,East,Consumer,Printer,Office Supplies,3573.3,-181.68,1,0.33
+337,2023-12-03,1052,Michael Lee,North,Corporate,Headphones,Office Supplies,4496.86,208.31,10,0.14
+338,2023-12-04,1059,Michael Lee,East,Home Office,Mobile,Furniture,2934.3,338.96,10,0.0
+339,2023-12-05,1107,John Smith,North,Corporate,Mobile,Furniture,664.33,281.39,3,0.06
+340,2023-12-06,1004,Fatima Zahra,East,Consumer,Chair,Technology,651.0,831.66,1,0.47
+341,2023-12-07,1102,Sara Ahmed,South,Consumer,Laptop,Technology,3619.61,-68.97,3,0.43
+342,2023-12-08,1195,Ayesha Noor,East,Home Office,Headphones,Office Supplies,959.73,-57.86,12,0.12
+343,2023-12-09,1261,John Smith,South,Consumer,Printer,Furniture,1675.51,958.42,11,0.39
+344,2023-12-10,1046,Michael Lee,South,Home Office,Headphones,Technology,2461.7,500.58,13,0.3
+345,2023-12-11,1143,Ayesha Noor,East,Corporate,Chair,Office Supplies,172.59,330.31,2,0.49
+346,2023-12-12,1268,Michael Lee,North,Home Office,Desk,Furniture,1281.65,-161.59,2,0.19
+347,2023-12-13,1123,Ayesha Noor,North,Home Office,Desk,Office Supplies,2069.05,-124.95,9,0.34
+348,2023-12-14,1105,Sara Ahmed,West,Consumer,Chair,Technology,1434.2,-478.9,8,0.03
+349,2023-12-15,1157,John Smith,North,Consumer,Printer,Technology,725.03,-317.15,1,0.2
+350,2023-12-16,1146,Ayesha Noor,West,Home Office,Tablet,Furniture,3653.66,613.68,12,0.48
+351,2023-12-17,1144,Fatima Zahra,North,Consumer,Chair,Office Supplies,4075.08,1283.75,14,0.27
+352,2023-12-18,1119,Ali Khan,North,Consumer,Printer,Furniture,1324.52,74.33,4,0.14
+353,2023-12-19,1274,Fatima Zahra,South,Consumer,Mobile,Technology,3883.38,155.49,13,0.06
+354,2023-12-20,1091,Fatima Zahra,West,Home Office,Chair,Technology,1958.49,-268.79,1,0.35
+355,2023-12-21,1057,Ali Khan,North,Consumer,Printer,Office Supplies,2558.09,277.26,1,0.32
+356,2023-12-22,1228,Fatima Zahra,West,Home Office,Chair,Office Supplies,4287.21,-425.56,12,0.19
+357,2023-12-23,1116,Ayesha Noor,South,Consumer,Chair,Office Supplies,3762.27,1335.2,12,0.48
+358,2023-12-24,1278,Ayesha Noor,South,Corporate,Tablet,Furniture,4035.33,846.22,4,0.01
+359,2023-12-25,1126,Ayesha Noor,West,Consumer,Tablet,Office Supplies,727.38,1481.5,2,0.15
+360,2023-12-26,1128,Ali Khan,South,Consumer,Printer,Office Supplies,395.11,1265.65,3,0.46
+361,2023-12-27,1057,Fatima Zahra,East,Home Office,Printer,Technology,4472.35,445.98,11,0.16
+362,2023-12-28,1121,Ali Khan,East,Home Office,Laptop,Technology,1969.78,539.37,9,0.13
+363,2023-12-29,1000,Ayesha Noor,South,Consumer,Chair,Office Supplies,1475.0,-118.85,2,0.27
+364,2023-12-30,1238,Fatima Zahra,East,Corporate,Desk,Office Supplies,3637.25,424.08,4,0.41
+365,2023-12-31,1289,Fatima Zahra,North,Consumer,Chair,Technology,4190.26,1306.06,1,0.05
+366,2024-01-01,1095,Michael Lee,West,Consumer,Chair,Office Supplies,4319.32,-398.29,2,0.47
+367,2024-01-02,1125,Michael Lee,North,Corporate,Printer,Furniture,1614.19,1227.11,5,0.4
+368,2024-01-03,1117,Sara Ahmed,West,Home Office,Chair,Furniture,4268.45,181.9,14,0.09
+369,2024-01-04,1047,John Smith,South,Consumer,Headphones,Furniture,252.62,1299.03,10,0.36
+370,2024-01-05,1088,Michael Lee,North,Home Office,Chair,Office Supplies,295.82,1381.76,1,0.19
+371,2024-01-06,1236,Ali Khan,South,Home Office,Headphones,Technology,3136.42,841.73,11,0.2
+372,2024-01-07,1271,Michael Lee,South,Corporate,Tablet,Office Supplies,362.38,828.85,7,0.39
+373,2024-01-08,1188,Sara Ahmed,West,Corporate,Desk,Office Supplies,1656.82,405.51,4,0.48
+374,2024-01-09,1191,Fatima Zahra,West,Home Office,Printer,Technology,3380.14,1171.08,6,0.06
+375,2024-01-10,1068,Sara Ahmed,West,Consumer,Chair,Technology,1719.47,1423.23,8,0.21
+376,2024-01-11,1277,Fatima Zahra,North,Home Office,Headphones,Technology,939.02,1050.16,13,0.24
+377,2024-01-12,1246,Fatima Zahra,East,Consumer,Headphones,Furniture,1442.69,743.87,6,0.19
+378,2024-01-13,1075,John Smith,West,Consumer,Tablet,Office Supplies,2315.0,713.59,14,0.18
+379,2024-01-14,1153,Michael Lee,West,Corporate,Headphones,Technology,2403.16,1198.94,2,0.03
+380,2024-01-15,1143,Ali Khan,North,Consumer,Mobile,Office Supplies,3925.85,582.41,1,0.34
+381,2024-01-16,1085,Ali Khan,West,Consumer,Laptop,Furniture,3763.26,1107.72,8,0.22
+382,2024-01-17,1184,Ayesha Noor,North,Home Office,Desk,Furniture,2311.25,517.77,8,0.1
+383,2024-01-18,1284,Fatima Zahra,South,Corporate,Tablet,Technology,4236.05,-375.11,9,0.41
+384,2024-01-19,1219,Ali Khan,West,Consumer,Tablet,Technology,615.47,267.89,6,0.4
+385,2024-01-20,1068,John Smith,West,Consumer,Chair,Office Supplies,1314.0,388.88,12,0.24
+386,2024-01-21,1046,Fatima Zahra,South,Corporate,Mobile,Technology,4148.48,-216.77,1,0.15
+387,2024-01-22,1093,John Smith,South,Home Office,Chair,Office Supplies,1921.07,-295.01,14,0.32
+388,2024-01-23,1237,Ali Khan,South,Corporate,Chair,Technology,4906.85,570.93,9,0.14
+389,2024-01-24,1203,Ali Khan,West,Corporate,Printer,Office Supplies,2357.95,-329.71,12,0.12
+390,2024-01-25,1217,Ayesha Noor,East,Consumer,Printer,Office Supplies,3970.08,105.89,13,0.37
+391,2024-01-26,1038,Ali Khan,East,Consumer,Printer,Office Supplies,2041.42,989.19,14,0.02
+392,2024-01-27,1099,Fatima Zahra,East,Home Office,Mobile,Office Supplies,2153.52,1428.86,3,0.05
+393,2024-01-28,1288,Fatima Zahra,West,Consumer,Chair,Furniture,1945.27,935.74,11,0.0
+394,2024-01-29,1253,Fatima Zahra,South,Consumer,Laptop,Office Supplies,3609.42,1485.25,6,0.08
+395,2024-01-30,1221,Ayesha Noor,West,Corporate,Desk,Technology,2760.21,896.68,10,0.03
+396,2024-01-31,1022,Ayesha Noor,South,Consumer,Printer,Furniture,4721.7,87.59,13,0.5
+397,2024-02-01,1249,Ali Khan,West,Home Office,Printer,Furniture,1291.91,844.11,10,0.14
+398,2024-02-02,1009,Sara Ahmed,West,Corporate,Tablet,Office Supplies,547.79,904.31,11,0.07
+399,2024-02-03,1245,Sara Ahmed,South,Home Office,Chair,Furniture,1996.64,243.45,12,0.12
+400,2024-02-04,1099,Ayesha Noor,East,Corporate,Chair,Office Supplies,3102.73,-464.57,14,0.47
+401,2024-02-05,1289,Ali Khan,South,Consumer,Mobile,Technology,4310.95,906.4,9,0.26
+402,2024-02-06,1179,Sara Ahmed,North,Corporate,Mobile,Office Supplies,1763.67,-456.6,11,0.18
+403,2024-02-07,1222,Ali Khan,North,Corporate,Printer,Furniture,3286.24,762.38,13,0.44
+404,2024-02-08,1249,Ali Khan,South,Consumer,Chair,Technology,1783.48,-172.77,3,0.2
+405,2024-02-09,1146,Ali Khan,West,Consumer,Laptop,Office Supplies,3105.24,631.21,5,0.17
+406,2024-02-10,1095,Michael Lee,North,Home Office,Desk,Technology,4429.8,507.83,13,0.1
+407,2024-02-11,1256,Fatima Zahra,North,Home Office,Chair,Technology,1195.22,-472.97,14,0.19
+408,2024-02-12,1003,Ali Khan,West,Consumer,Tablet,Furniture,2051.0,225.73,5,0.16
+409,2024-02-13,1015,Michael Lee,West,Consumer,Chair,Technology,4966.66,702.18,10,0.34
+410,2024-02-14,1279,Ayesha Noor,East,Consumer,Headphones,Furniture,4349.36,1197.21,7,0.14
+411,2024-02-15,1246,Sara Ahmed,West,Corporate,Mobile,Technology,2844.97,1277.28,4,0.29
+412,2024-02-16,1257,Fatima Zahra,South,Corporate,Tablet,Office Supplies,2607.31,467.7,11,0.03
+413,2024-02-17,1159,Sara Ahmed,South,Corporate,Desk,Technology,1458.77,956.84,4,0.1
+414,2024-02-18,1151,Fatima Zahra,East,Consumer,Printer,Office Supplies,2610.19,132.91,7,0.2
+415,2024-02-19,1177,Sara Ahmed,North,Home Office,Tablet,Office Supplies,4248.5,184.37,9,0.47
+416,2024-02-20,1162,Fatima Zahra,North,Consumer,Chair,Technology,3441.61,-111.07,11,0.19
+417,2024-02-21,1032,Sara Ahmed,West,Corporate,Printer,Office Supplies,1485.72,623.9,4,0.33
+418,2024-02-22,1178,Sara Ahmed,South,Corporate,Chair,Technology,1047.25,129.13,4,0.13
+419,2024-02-23,1100,Sara Ahmed,North,Consumer,Printer,Technology,1362.78,-331.26,6,0.06
+420,2024-02-24,1267,Sara Ahmed,East,Consumer,Desk,Office Supplies,890.31,870.01,6,0.03
+421,2024-02-25,1064,Ayesha Noor,East,Corporate,Mobile,Office Supplies,523.42,915.51,7,0.15
+422,2024-02-26,1167,Ali Khan,South,Corporate,Desk,Furniture,2124.72,219.98,1,0.08
+423,2024-02-27,1042,John Smith,East,Corporate,Headphones,Office Supplies,610.83,-346.55,13,0.09
+424,2024-02-28,1043,Michael Lee,East,Consumer,Laptop,Furniture,900.97,352.6,11,0.38
+425,2024-02-29,1284,John Smith,South,Corporate,Mobile,Office Supplies,2759.26,384.67,14,0.01
+426,2024-03-01,1011,John Smith,West,Corporate,Desk,Technology,864.77,837.34,3,0.28
+427,2024-03-02,1094,Fatima Zahra,West,Home Office,Headphones,Office Supplies,366.2,130.83,9,0.19
+428,2024-03-03,1252,Ali Khan,East,Consumer,Laptop,Technology,1621.07,865.2,6,0.25
+429,2024-03-04,1241,Fatima Zahra,West,Home Office,Headphones,Technology,1140.58,1242.98,6,0.28
+430,2024-03-05,1034,Ali Khan,West,Home Office,Chair,Technology,2600.76,-25.03,5,0.16
+431,2024-03-06,1214,Ali Khan,East,Corporate,Chair,Furniture,556.72,1457.84,11,0.15
+432,2024-03-07,1089,Sara Ahmed,West,Consumer,Printer,Office Supplies,3771.27,272.74,3,0.37
+433,2024-03-08,1263,Ayesha Noor,East,Corporate,Mobile,Technology,4535.86,34.52,11,0.44
+434,2024-03-09,1092,Sara Ahmed,North,Consumer,Chair,Technology,3730.0,343.02,5,0.1
+435,2024-03-10,1089,Ayesha Noor,South,Home Office,Tablet,Furniture,2687.49,-311.21,14,0.05
+436,2024-03-11,1114,Fatima Zahra,South,Consumer,Headphones,Office Supplies,4310.31,-248.59,1,0.45
+437,2024-03-12,1104,Ayesha Noor,West,Corporate,Mobile,Office Supplies,3489.85,328.87,3,0.17
+438,2024-03-13,1195,Fatima Zahra,West,Corporate,Tablet,Furniture,102.23,1024.89,4,0.28
+439,2024-03-14,1113,John Smith,West,Corporate,Chair,Furniture,2000.75,1300.62,5,0.18
+440,2024-03-15,1074,John Smith,South,Consumer,Printer,Office Supplies,4262.21,829.64,10,0.06
+441,2024-03-16,1216,Ayesha Noor,North,Home Office,Desk,Furniture,1762.0,-289.56,9,0.29
+442,2024-03-17,1276,Ayesha Noor,North,Home Office,Printer,Office Supplies,224.32,844.04,4,0.26
+443,2024-03-18,1248,Fatima Zahra,South,Consumer,Tablet,Office Supplies,3743.59,770.86,3,0.1
+444,2024-03-19,1163,Sara Ahmed,North,Corporate,Laptop,Technology,4020.09,1111.53,10,0.23
+445,2024-03-20,1191,Fatima Zahra,South,Home Office,Chair,Technology,844.94,1150.5,1,0.4
+446,2024-03-21,1226,Sara Ahmed,North,Corporate,Tablet,Office Supplies,2709.84,1236.41,13,0.3
+447,2024-03-22,1176,John Smith,East,Consumer,Laptop,Office Supplies,1000.18,328.26,10,0.05
+448,2024-03-23,1098,Ali Khan,East,Corporate,Laptop,Office Supplies,3610.21,895.73,6,0.27
+449,2024-03-24,1035,Ayesha Noor,South,Home Office,Headphones,Office Supplies,1394.17,36.5,7,0.35
+450,2024-03-25,1095,Sara Ahmed,North,Home Office,Mobile,Office Supplies,1615.26,1498.67,10,0.4
+451,2024-03-26,1151,Fatima Zahra,West,Corporate,Headphones,Office Supplies,4232.61,-149.33,8,0.31
+452,2024-03-27,1150,John Smith,North,Consumer,Chair,Furniture,2407.8,-479.77,12,0.08
+453,2024-03-28,1189,Sara Ahmed,East,Corporate,Laptop,Office Supplies,3365.28,-202.38,1,0.36
+454,2024-03-29,1223,Fatima Zahra,East,Consumer,Tablet,Furniture,2041.75,1051.74,12,0.34
+455,2024-03-30,1036,Ayesha Noor,North,Corporate,Desk,Furniture,1525.13,393.57,4,0.01
+456,2024-03-31,1267,Ayesha Noor,North,Home Office,Laptop,Office Supplies,3146.12,395.0,11,0.21
+457,2024-04-01,1182,Michael Lee,West,Consumer,Tablet,Office Supplies,816.54,1410.05,5,0.17
+458,2024-04-02,1012,Ali Khan,West,Consumer,Desk,Furniture,1896.35,1339.27,2,0.33
+459,2024-04-03,1278,Michael Lee,North,Consumer,Headphones,Furniture,1084.73,122.39,1,0.11
+460,2024-04-04,1216,John Smith,North,Home Office,Headphones,Office Supplies,3494.19,-81.88,8,0.3
+461,2024-04-05,1285,Sara Ahmed,North,Corporate,Mobile,Office Supplies,4723.83,1196.96,6,0.46
+462,2024-04-06,1272,John Smith,North,Home Office,Tablet,Furniture,4977.78,1312.04,5,0.4
+463,2024-04-07,1061,Fatima Zahra,South,Consumer,Laptop,Furniture,2278.87,583.19,13,0.46
+464,2024-04-08,1083,Ayesha Noor,North,Corporate,Printer,Furniture,1300.03,758.85,9,0.49
+465,2024-04-09,1216,Michael Lee,West,Home Office,Headphones,Technology,2242.01,13.83,13,0.01
+466,2024-04-10,1186,Michael Lee,East,Consumer,Headphones,Furniture,4243.98,1101.61,11,0.31
+467,2024-04-11,1018,Michael Lee,South,Consumer,Mobile,Technology,1069.73,764.24,13,0.21
+468,2024-04-12,1176,John Smith,North,Home Office,Desk,Office Supplies,4762.87,507.03,11,0.43
+469,2024-04-13,1099,Ayesha Noor,East,Home Office,Mobile,Office Supplies,1742.24,-379.78,2,0.13
+470,2024-04-14,1232,Sara Ahmed,South,Home Office,Laptop,Furniture,4929.73,1331.87,10,0.49
+471,2024-04-15,1075,Fatima Zahra,East,Consumer,Tablet,Office Supplies,4201.11,730.9,12,0.31
+472,2024-04-16,1264,Sara Ahmed,North,Home Office,Chair,Office Supplies,4052.42,-114.62,8,0.4
+473,2024-04-17,1283,John Smith,North,Consumer,Chair,Office Supplies,1623.63,712.77,11,0.04
+474,2024-04-18,1205,Fatima Zahra,West,Home Office,Tablet,Office Supplies,93.45,854.93,14,0.09
+475,2024-04-19,1222,Michael Lee,North,Consumer,Desk,Technology,1941.56,551.54,10,0.38
+476,2024-04-20,1051,Ali Khan,North,Consumer,Headphones,Technology,1543.96,936.2,13,0.01
+477,2024-04-21,1143,John Smith,South,Corporate,Desk,Furniture,235.12,662.91,9,0.41
+478,2024-04-22,1068,John Smith,West,Home Office,Headphones,Furniture,2551.56,1395.54,1,0.01
+479,2024-04-23,1098,Ayesha Noor,South,Home Office,Headphones,Furniture,2045.0,-392.61,7,0.33
+480,2024-04-24,1024,Sara Ahmed,East,Consumer,Chair,Office Supplies,3191.05,-287.51,8,0.18
+481,2024-04-25,1052,John Smith,North,Consumer,Desk,Office Supplies,3124.87,-152.66,3,0.31
+482,2024-04-26,1150,John Smith,East,Consumer,Mobile,Technology,647.7,880.34,14,0.35
+483,2024-04-27,1143,Michael Lee,South,Corporate,Headphones,Technology,4885.98,791.19,4,0.17
+484,2024-04-28,1056,Michael Lee,North,Corporate,Printer,Furniture,975.31,1284.12,13,0.05
+485,2024-04-29,1038,Fatima Zahra,North,Consumer,Printer,Technology,2254.11,965.75,3,0.03
+486,2024-04-30,1108,Ali Khan,South,Home Office,Mobile,Technology,2466.18,516.71,7,0.29
+487,2024-05-01,1180,Ayesha Noor,South,Home Office,Printer,Technology,4074.66,1483.66,9,0.26
+488,2024-05-02,1041,Ali Khan,South,Corporate,Laptop,Technology,541.19,32.22,3,0.37
+489,2024-05-03,1185,Fatima Zahra,South,Corporate,Headphones,Technology,2171.79,1166.38,13,0.25
+490,2024-05-04,1222,Michael Lee,South,Consumer,Mobile,Furniture,3161.09,353.58,6,0.21
+491,2024-05-05,1121,Sara Ahmed,North,Home Office,Desk,Furniture,1115.02,797.47,8,0.2
+492,2024-05-06,1132,Michael Lee,South,Consumer,Headphones,Technology,3155.97,954.54,6,0.01
+493,2024-05-07,1162,Ayesha Noor,North,Corporate,Mobile,Furniture,4622.14,767.51,2,0.17
+494,2024-05-08,1214,Michael Lee,North,Home Office,Chair,Office Supplies,4987.71,-218.99,13,0.49
+495,2024-05-09,1220,Ayesha Noor,South,Home Office,Desk,Technology,210.63,385.9,7,0.44
+496,2024-05-10,1234,Ayesha Noor,South,Corporate,Chair,Office Supplies,1216.16,622.88,2,0.16
+497,2024-05-11,1145,Ayesha Noor,West,Consumer,Headphones,Furniture,1586.02,1198.09,2,0.29
+498,2024-05-12,1238,Fatima Zahra,North,Consumer,Desk,Furniture,2025.67,387.29,2,0.42
+499,2024-05-13,1075,Ayesha Noor,South,Home Office,Printer,Office Supplies,1249.17,1337.49,11,0.22
+500,2024-05-14,1008,Ayesha Noor,South,Corporate,Mobile,Furniture,1057.27,380.75,1,0.01
+501,2024-05-15,1073,Sara Ahmed,South,Home Office,Headphones,Technology,4775.04,597.56,14,0.04
+502,2024-05-16,1252,Ali Khan,West,Corporate,Laptop,Office Supplies,4596.68,1092.57,11,0.26
+503,2024-05-17,1229,John Smith,West,Consumer,Desk,Technology,282.61,666.14,1,0.48
+504,2024-05-18,1006,Ali Khan,East,Corporate,Desk,Office Supplies,1727.12,1420.44,14,0.35
+505,2024-05-19,1173,Ayesha Noor,North,Consumer,Tablet,Furniture,2055.49,820.67,7,0.04
+506,2024-05-20,1140,Sara Ahmed,East,Corporate,Headphones,Office Supplies,1233.12,545.42,13,0.09
+507,2024-05-21,1167,Michael Lee,South,Home Office,Headphones,Office Supplies,3162.92,-452.82,14,0.39
+508,2024-05-22,1169,Sara Ahmed,West,Consumer,Chair,Technology,3219.88,327.47,14,0.42
+509,2024-05-23,1282,Ayesha Noor,West,Home Office,Tablet,Furniture,4260.0,98.5,14,0.31
+510,2024-05-24,1121,Sara Ahmed,East,Home Office,Printer,Technology,3717.3,996.21,12,0.32
+511,2024-05-25,1193,Sara Ahmed,West,Consumer,Chair,Furniture,2735.74,-83.44,5,0.01
+512,2024-05-26,1004,Ayesha Noor,South,Consumer,Tablet,Technology,3285.25,-89.56,11,0.41
+513,2024-05-27,1028,Fatima Zahra,West,Home Office,Chair,Office Supplies,1406.24,-120.96,3,0.39
+514,2024-05-28,1164,Sara Ahmed,East,Home Office,Printer,Technology,2985.63,-248.77,1,0.13
+515,2024-05-29,1135,John Smith,South,Home Office,Tablet,Furniture,2471.67,122.01,11,0.35
+516,2024-05-30,1144,John Smith,East,Home Office,Tablet,Furniture,710.06,1271.84,10,0.11
+517,2024-05-31,1216,Sara Ahmed,West,Consumer,Laptop,Office Supplies,1250.59,1049.86,6,0.02
+518,2024-06-01,1131,Fatima Zahra,East,Consumer,Chair,Furniture,1493.88,970.5,11,0.1
+519,2024-06-02,1291,Michael Lee,East,Home Office,Chair,Technology,4625.33,1094.67,1,0.09
+520,2024-06-03,1069,Ayesha Noor,North,Corporate,Desk,Office Supplies,1190.41,38.84,9,0.17
+521,2024-06-04,1251,John Smith,West,Corporate,Printer,Furniture,1481.76,1274.88,2,0.21
+522,2024-06-05,1274,Michael Lee,West,Consumer,Mobile,Furniture,1878.3,-225.39,1,0.25
+523,2024-06-06,1181,Sara Ahmed,East,Home Office,Laptop,Technology,3335.53,172.69,12,0.24
+524,2024-06-07,1166,Michael Lee,North,Home Office,Tablet,Technology,635.28,673.5,7,0.14
+525,2024-06-08,1090,Ali Khan,West,Consumer,Tablet,Office Supplies,4772.03,-294.19,6,0.01
+526,2024-06-09,1201,John Smith,South,Corporate,Tablet,Furniture,4334.58,960.26,6,0.3
+527,2024-06-10,1018,Sara Ahmed,East,Corporate,Laptop,Technology,2907.22,274.49,14,0.2
+528,2024-06-11,1038,Ayesha Noor,West,Corporate,Tablet,Office Supplies,3386.49,1068.81,5,0.15
+529,2024-06-12,1125,Fatima Zahra,South,Consumer,Tablet,Furniture,132.47,485.79,11,0.43
+530,2024-06-13,1172,Sara Ahmed,West,Corporate,Printer,Furniture,1727.78,-138.25,4,0.37
+531,2024-06-14,1140,Ayesha Noor,South,Consumer,Headphones,Office Supplies,3988.52,969.52,11,0.43
+532,2024-06-15,1241,Fatima Zahra,East,Consumer,Headphones,Office Supplies,433.54,4.29,4,0.25
+533,2024-06-16,1219,Fatima Zahra,West,Home Office,Desk,Technology,1447.45,481.62,3,0.07
+534,2024-06-17,1125,Sara Ahmed,West,Corporate,Desk,Furniture,2947.22,-348.93,10,0.35
+535,2024-06-18,1057,Michael Lee,North,Consumer,Tablet,Furniture,1319.24,735.73,8,0.1
+536,2024-06-19,1147,Michael Lee,East,Corporate,Printer,Furniture,4673.19,831.72,7,0.22
+537,2024-06-20,1000,Fatima Zahra,South,Corporate,Tablet,Office Supplies,698.74,257.35,9,0.03
+538,2024-06-21,1189,Michael Lee,West,Home Office,Desk,Technology,3997.1,1408.85,1,0.41
+539,2024-06-22,1190,Ali Khan,West,Corporate,Laptop,Furniture,2564.35,1248.34,7,0.06
+540,2024-06-23,1116,Fatima Zahra,South,Home Office,Laptop,Office Supplies,3764.14,915.88,10,0.45
+541,2024-06-24,1133,Fatima Zahra,East,Consumer,Mobile,Furniture,1588.04,927.3,4,0.43
+542,2024-06-25,1057,Ayesha Noor,North,Corporate,Headphones,Technology,2596.72,4.8,7,0.23
+543,2024-06-26,1043,Michael Lee,North,Consumer,Printer,Furniture,4291.33,813.63,13,0.37
+544,2024-06-27,1172,Fatima Zahra,West,Corporate,Chair,Technology,2361.05,-103.59,12,0.31
+545,2024-06-28,1159,Ali Khan,South,Consumer,Headphones,Technology,1830.61,-211.99,1,0.4
+546,2024-06-29,1172,Ayesha Noor,West,Corporate,Chair,Furniture,2703.97,1498.94,5,0.22
+547,2024-06-30,1148,Sara Ahmed,South,Corporate,Mobile,Furniture,3600.95,744.75,3,0.39
+548,2024-07-01,1079,Fatima Zahra,North,Corporate,Mobile,Technology,2245.64,361.98,5,0.23
+549,2024-07-02,1212,Ali Khan,East,Corporate,Tablet,Office Supplies,4697.44,76.33,4,0.47
+550,2024-07-03,1202,John Smith,South,Corporate,Desk,Technology,1509.98,707.84,2,0.24
+551,2024-07-04,1251,Ali Khan,North,Corporate,Mobile,Furniture,2403.54,-400.81,11,0.23
+552,2024-07-05,1228,Ali Khan,West,Corporate,Mobile,Furniture,3796.79,-310.64,4,0.39
+553,2024-07-06,1163,Ayesha Noor,South,Corporate,Chair,Office Supplies,3461.15,-434.29,3,0.41
+554,2024-07-07,1226,Sara Ahmed,East,Corporate,Desk,Technology,4325.02,498.34,13,0.28
+555,2024-07-08,1146,John Smith,West,Consumer,Mobile,Technology,4984.21,701.21,1,0.09
+556,2024-07-09,1019,Michael Lee,West,Home Office,Headphones,Technology,2162.95,-375.04,12,0.23
+557,2024-07-10,1046,Michael Lee,North,Corporate,Mobile,Furniture,600.2,942.45,10,0.48
+558,2024-07-11,1232,Ali Khan,South,Home Office,Desk,Technology,200.56,-39.21,8,0.38
+559,2024-07-12,1013,Ayesha Noor,West,Corporate,Tablet,Office Supplies,3648.04,870.4,5,0.41
+560,2024-07-13,1142,Ayesha Noor,East,Corporate,Printer,Furniture,4376.37,1463.79,4,0.02
+561,2024-07-14,1000,Michael Lee,South,Consumer,Desk,Furniture,1142.53,882.21,10,0.23
+562,2024-07-15,1053,John Smith,East,Consumer,Chair,Technology,834.32,1266.39,12,0.32
+563,2024-07-16,1258,Sara Ahmed,West,Home Office,Printer,Office Supplies,357.92,1396.4,5,0.42
+564,2024-07-17,1143,John Smith,East,Consumer,Headphones,Furniture,4122.38,473.5,4,0.02
+565,2024-07-18,1011,Fatima Zahra,North,Consumer,Laptop,Furniture,1591.34,904.65,3,0.43
+566,2024-07-19,1223,Fatima Zahra,East,Home Office,Desk,Technology,2038.4,1203.94,5,0.27
+567,2024-07-20,1271,Sara Ahmed,South,Consumer,Tablet,Technology,2538.61,213.22,4,0.1
+568,2024-07-21,1155,Michael Lee,East,Corporate,Chair,Office Supplies,4205.29,22.79,1,0.16
+569,2024-07-22,1007,Sara Ahmed,East,Home Office,Headphones,Technology,3271.62,1393.2,12,0.14
+570,2024-07-23,1121,Ayesha Noor,North,Home Office,Printer,Office Supplies,3094.57,952.61,3,0.27
+571,2024-07-24,1163,Fatima Zahra,East,Corporate,Headphones,Furniture,919.58,-60.64,10,0.03
+572,2024-07-25,1089,Ali Khan,East,Consumer,Desk,Office Supplies,2590.29,398.17,10,0.08
+573,2024-07-26,1135,Ali Khan,West,Home Office,Mobile,Office Supplies,3591.14,1092.9,8,0.41
+574,2024-07-27,1185,Michael Lee,West,Home Office,Tablet,Office Supplies,4867.64,594.13,7,0.07
+575,2024-07-28,1177,Ayesha Noor,South,Corporate,Desk,Furniture,1046.96,799.9,2,0.12
+576,2024-07-29,1027,John Smith,West,Corporate,Laptop,Technology,97.24,1007.54,1,0.23
+577,2024-07-30,1219,Ayesha Noor,West,Consumer,Desk,Furniture,422.74,744.02,3,0.26
+578,2024-07-31,1040,Ali Khan,West,Home Office,Printer,Technology,1910.47,580.16,5,0.38
+579,2024-08-01,1227,Ali Khan,West,Consumer,Printer,Office Supplies,4111.7,999.23,10,0.22
+580,2024-08-02,1191,Fatima Zahra,North,Consumer,Desk,Office Supplies,85.35,955.13,11,0.39
+581,2024-08-03,1144,Ayesha Noor,West,Corporate,Printer,Office Supplies,2310.82,759.74,12,0.31
+582,2024-08-04,1200,Ayesha Noor,North,Home Office,Mobile,Office Supplies,1679.69,219.58,1,0.06
+583,2024-08-05,1211,Ali Khan,North,Home Office,Headphones,Office Supplies,309.78,311.62,3,0.08
+584,2024-08-06,1219,John Smith,West,Home Office,Desk,Technology,2278.67,1440.88,3,0.22
+585,2024-08-07,1239,Michael Lee,East,Corporate,Tablet,Technology,1311.01,-275.23,5,0.2
+586,2024-08-08,1045,Michael Lee,North,Corporate,Mobile,Office Supplies,1791.83,37.01,3,0.37
+587,2024-08-09,1034,Ayesha Noor,East,Corporate,Headphones,Furniture,3542.8,484.8,13,0.29
+588,2024-08-10,1252,Michael Lee,East,Corporate,Tablet,Furniture,2631.68,1173.46,9,0.19
+589,2024-08-11,1081,Ali Khan,West,Corporate,Tablet,Office Supplies,667.0,-172.65,1,0.09
+590,2024-08-12,1255,Ali Khan,South,Home Office,Tablet,Technology,4809.0,53.91,4,0.11
+591,2024-08-13,1196,Ayesha Noor,West,Consumer,Headphones,Furniture,3197.76,-368.4,13,0.29
+592,2024-08-14,1009,Ayesha Noor,South,Home Office,Mobile,Furniture,3841.05,911.97,13,0.21
+593,2024-08-15,1285,Fatima Zahra,South,Consumer,Tablet,Furniture,442.11,-23.58,10,0.26
+594,2024-08-16,1241,Ayesha Noor,West,Corporate,Tablet,Office Supplies,282.94,277.35,10,0.09
+595,2024-08-17,1250,John Smith,West,Consumer,Chair,Furniture,146.27,387.4,4,0.33
+596,2024-08-18,1004,Michael Lee,South,Home Office,Desk,Furniture,984.53,1282.63,1,0.43
+597,2024-08-19,1118,Ayesha Noor,West,Home Office,Headphones,Furniture,2101.32,322.66,14,0.13
+598,2024-08-20,1288,Sara Ahmed,South,Consumer,Headphones,Furniture,4682.34,-209.55,2,0.25
+599,2024-08-21,1064,Fatima Zahra,East,Corporate,Printer,Technology,2312.45,548.63,11,0.49
+600,2024-08-22,1145,Sara Ahmed,West,Corporate,Headphones,Office Supplies,1486.76,1425.92,1,0.17
+601,2024-08-23,1223,Ali Khan,East,Home Office,Mobile,Office Supplies,2831.58,715.37,6,0.3
+602,2024-08-24,1238,Michael Lee,North,Consumer,Headphones,Technology,604.08,1466.77,3,0.05
+603,2024-08-25,1176,Ayesha Noor,East,Corporate,Chair,Technology,3067.05,1182.21,7,0.3
+604,2024-08-26,1266,Sara Ahmed,East,Corporate,Desk,Office Supplies,2863.74,-428.07,5,0.04
+605,2024-08-27,1281,Michael Lee,South,Home Office,Desk,Furniture,3970.37,816.8,9,0.48
+606,2024-08-28,1062,Ali Khan,East,Corporate,Headphones,Furniture,4934.1,73.53,7,0.36
+607,2024-08-29,1216,John Smith,West,Consumer,Tablet,Office Supplies,1291.82,619.23,4,0.39
+608,2024-08-30,1282,Fatima Zahra,South,Home Office,Laptop,Furniture,2572.8,58.69,5,0.35
+609,2024-08-31,1176,Michael Lee,North,Home Office,Laptop,Technology,4548.88,197.74,5,0.29
+610,2024-09-01,1097,Michael Lee,West,Consumer,Tablet,Furniture,3936.69,1346.34,11,0.22
+611,2024-09-02,1104,John Smith,North,Home Office,Tablet,Furniture,2462.66,-86.71,5,0.43
+612,2024-09-03,1098,Michael Lee,East,Corporate,Tablet,Furniture,4729.59,1248.22,10,0.48
+613,2024-09-04,1005,Ali Khan,West,Corporate,Mobile,Office Supplies,333.32,-439.08,9,0.25
+614,2024-09-05,1196,Ali Khan,West,Consumer,Laptop,Technology,4658.44,-318.25,10,0.47
+615,2024-09-06,1132,John Smith,North,Corporate,Tablet,Furniture,300.01,1209.35,3,0.29
+616,2024-09-07,1258,Fatima Zahra,West,Consumer,Mobile,Office Supplies,2759.16,761.11,6,0.27
+617,2024-09-08,1022,Ayesha Noor,West,Consumer,Printer,Furniture,4457.68,994.47,8,0.23
+618,2024-09-09,1052,Sara Ahmed,West,Corporate,Mobile,Technology,1350.47,-81.16,11,0.1
+619,2024-09-10,1164,Ayesha Noor,East,Consumer,Laptop,Furniture,2387.63,574.17,9,0.0
+620,2024-09-11,1201,Michael Lee,North,Corporate,Headphones,Technology,1655.43,974.44,13,0.12
+621,2024-09-12,1082,Sara Ahmed,West,Home Office,Printer,Furniture,4763.11,754.63,7,0.25
+622,2024-09-13,1144,John Smith,South,Home Office,Laptop,Technology,4127.05,443.4,12,0.19
+623,2024-09-14,1084,John Smith,South,Consumer,Mobile,Furniture,3559.56,1419.57,3,0.22
+624,2024-09-15,1077,Fatima Zahra,South,Corporate,Chair,Technology,2958.75,852.31,1,0.49
+625,2024-09-16,1000,Sara Ahmed,South,Corporate,Desk,Furniture,4111.93,1315.5,4,0.18
+626,2024-09-17,1050,Ali Khan,East,Home Office,Laptop,Furniture,1991.72,959.54,13,0.23
+627,2024-09-18,1172,Sara Ahmed,West,Home Office,Tablet,Office Supplies,2265.38,970.93,6,0.07
+628,2024-09-19,1204,Michael Lee,North,Corporate,Mobile,Office Supplies,3663.51,-339.96,3,0.02
+629,2024-09-20,1259,Ali Khan,West,Consumer,Tablet,Technology,1820.89,218.93,14,0.39
+630,2024-09-21,1287,John Smith,East,Home Office,Tablet,Furniture,366.31,1216.74,1,0.29
+631,2024-09-22,1033,Sara Ahmed,South,Consumer,Tablet,Technology,417.96,-34.79,6,0.38
+632,2024-09-23,1094,Ayesha Noor,East,Consumer,Tablet,Office Supplies,621.05,-268.99,14,0.07
+633,2024-09-24,1071,Fatima Zahra,West,Home Office,Tablet,Technology,4354.92,152.21,1,0.29
+634,2024-09-25,1038,Ayesha Noor,North,Consumer,Printer,Technology,2387.52,-59.12,9,0.13
+635,2024-09-26,1153,Fatima Zahra,East,Consumer,Laptop,Office Supplies,3578.77,1350.58,11,0.11
+636,2024-09-27,1249,Michael Lee,North,Corporate,Laptop,Furniture,1994.9,1235.93,14,0.01
+637,2024-09-28,1161,Ayesha Noor,East,Consumer,Desk,Technology,1330.62,499.37,12,0.07
+638,2024-09-29,1117,Sara Ahmed,North,Corporate,Mobile,Office Supplies,1768.6,-377.31,1,0.15
+639,2024-09-30,1258,Sara Ahmed,North,Home Office,Chair,Furniture,3981.2,929.12,13,0.06
+640,2024-10-01,1267,Ayesha Noor,South,Home Office,Printer,Office Supplies,3144.82,746.82,6,0.49
+641,2024-10-02,1053,Sara Ahmed,North,Corporate,Mobile,Technology,4691.32,1441.11,1,0.15
+642,2024-10-03,1235,Michael Lee,South,Home Office,Printer,Furniture,3414.54,617.91,12,0.07
+643,2024-10-04,1221,Ali Khan,West,Consumer,Laptop,Furniture,2872.4,172.79,7,0.1
+644,2024-10-05,1250,Michael Lee,West,Consumer,Tablet,Office Supplies,3070.47,538.04,3,0.29
+645,2024-10-06,1111,Fatima Zahra,South,Consumer,Desk,Office Supplies,4714.74,1458.53,6,0.03
+646,2024-10-07,1254,Michael Lee,South,Home Office,Desk,Office Supplies,3951.59,892.72,7,0.43
+647,2024-10-08,1206,Fatima Zahra,East,Consumer,Headphones,Furniture,169.0,843.95,1,0.48
+648,2024-10-09,1228,Sara Ahmed,East,Home Office,Chair,Furniture,2693.99,-18.64,1,0.12
+649,2024-10-10,1065,Ali Khan,East,Consumer,Desk,Technology,3457.28,987.21,13,0.23
+650,2024-10-11,1074,Sara Ahmed,West,Corporate,Tablet,Furniture,3756.06,1000.54,5,0.01
+651,2024-10-12,1102,John Smith,East,Home Office,Laptop,Technology,1105.05,134.58,6,0.32
+652,2024-10-13,1191,Sara Ahmed,North,Home Office,Chair,Office Supplies,4342.53,467.43,9,0.21
+653,2024-10-14,1251,Fatima Zahra,North,Consumer,Mobile,Office Supplies,4781.42,89.21,14,0.14
+654,2024-10-15,1225,Sara Ahmed,East,Home Office,Tablet,Furniture,1221.74,17.41,1,0.1
+655,2024-10-16,1293,Sara Ahmed,North,Home Office,Tablet,Office Supplies,4418.95,-448.21,13,0.33
+656,2024-10-17,1097,Ali Khan,West,Corporate,Desk,Office Supplies,530.04,70.42,4,0.21
+657,2024-10-18,1285,Sara Ahmed,North,Corporate,Chair,Furniture,325.75,607.94,10,0.09
+658,2024-10-19,1248,Ali Khan,West,Consumer,Laptop,Technology,689.66,-496.8,8,0.34
+659,2024-10-20,1165,Ayesha Noor,South,Corporate,Headphones,Furniture,335.82,66.44,10,0.28
+660,2024-10-21,1029,John Smith,South,Consumer,Printer,Technology,4232.81,1262.82,9,0.43
+661,2024-10-22,1246,Ali Khan,South,Consumer,Printer,Furniture,342.3,687.3,13,0.06
+662,2024-10-23,1105,Fatima Zahra,South,Consumer,Laptop,Furniture,1394.74,715.73,3,0.39
+663,2024-10-24,1050,Ayesha Noor,North,Home Office,Laptop,Office Supplies,563.59,306.73,11,0.34
+664,2024-10-25,1080,Ali Khan,East,Corporate,Printer,Furniture,1512.34,852.94,2,0.06
+665,2024-10-26,1132,Ali Khan,North,Consumer,Headphones,Furniture,498.27,-120.13,4,0.35
+666,2024-10-27,1284,John Smith,West,Corporate,Chair,Technology,3356.62,1137.49,2,0.22
+667,2024-10-28,1137,Fatima Zahra,North,Consumer,Printer,Office Supplies,709.97,-266.62,1,0.47
+668,2024-10-29,1183,Michael Lee,North,Corporate,Laptop,Technology,4266.64,812.0,12,0.07
+669,2024-10-30,1272,Michael Lee,West,Corporate,Desk,Technology,4095.1,182.3,3,0.32
+670,2024-10-31,1068,Ali Khan,South,Consumer,Mobile,Office Supplies,117.63,995.03,7,0.19
+671,2024-11-01,1033,Sara Ahmed,South,Home Office,Headphones,Office Supplies,4483.85,599.53,13,0.48
+672,2024-11-02,1261,Fatima Zahra,South,Corporate,Tablet,Office Supplies,193.27,404.71,13,0.16
+673,2024-11-03,1052,Ayesha Noor,East,Home Office,Headphones,Furniture,1236.25,-161.16,1,0.48
+674,2024-11-04,1204,Sara Ahmed,West,Home Office,Desk,Office Supplies,210.33,773.64,2,0.45
+675,2024-11-05,1125,Sara Ahmed,West,Consumer,Desk,Office Supplies,1712.43,1449.54,1,0.14
+676,2024-11-06,1234,Fatima Zahra,North,Consumer,Tablet,Office Supplies,2593.64,1151.21,8,0.4
+677,2024-11-07,1042,Ali Khan,East,Consumer,Laptop,Technology,3993.39,-379.98,5,0.5
+678,2024-11-08,1239,Ali Khan,South,Corporate,Printer,Technology,1723.01,252.46,8,0.13
+679,2024-11-09,1110,Ali Khan,East,Consumer,Chair,Furniture,3542.18,1351.17,3,0.22
+680,2024-11-10,1248,Ali Khan,West,Consumer,Headphones,Technology,978.15,506.09,13,0.26
+681,2024-11-11,1150,Michael Lee,West,Corporate,Tablet,Furniture,3765.46,824.22,12,0.15
+682,2024-11-12,1182,Ali Khan,North,Corporate,Headphones,Technology,1218.18,1325.2,7,0.01
+683,2024-11-13,1094,Michael Lee,North,Consumer,Desk,Office Supplies,760.55,1247.59,8,0.11
+684,2024-11-14,1007,Michael Lee,West,Consumer,Printer,Technology,967.77,503.64,6,0.14
+685,2024-11-15,1183,Ali Khan,South,Consumer,Headphones,Furniture,951.21,375.29,13,0.22
+686,2024-11-16,1280,John Smith,South,Consumer,Chair,Technology,2588.67,179.39,13,0.09
+687,2024-11-17,1194,Ayesha Noor,East,Home Office,Desk,Office Supplies,4231.75,938.04,7,0.44
+688,2024-11-18,1194,Sara Ahmed,West,Home Office,Chair,Furniture,444.05,73.97,14,0.35
+689,2024-11-19,1154,Michael Lee,West,Consumer,Printer,Office Supplies,3549.43,-0.22,12,0.04
+690,2024-11-20,1092,Fatima Zahra,South,Home Office,Headphones,Office Supplies,3289.01,212.5,2,0.33
+691,2024-11-21,1159,Fatima Zahra,South,Corporate,Mobile,Furniture,4368.97,-145.57,8,0.33
+692,2024-11-22,1060,Ayesha Noor,West,Home Office,Headphones,Office Supplies,1258.53,890.24,5,0.48
+693,2024-11-23,1121,Fatima Zahra,North,Home Office,Printer,Office Supplies,2278.04,732.48,7,0.0
+694,2024-11-24,1050,John Smith,West,Consumer,Headphones,Technology,4632.85,465.76,1,0.12
+695,2024-11-25,1276,Fatima Zahra,West,Home Office,Tablet,Office Supplies,3316.97,280.65,5,0.46
+696,2024-11-26,1004,Sara Ahmed,South,Home Office,Headphones,Office Supplies,1974.4,1318.13,1,0.47
+697,2024-11-27,1091,Sara Ahmed,South,Home Office,Laptop,Office Supplies,700.49,-441.75,12,0.36
+698,2024-11-28,1169,Michael Lee,North,Home Office,Headphones,Office Supplies,1349.3,1038.22,13,0.38
+699,2024-11-29,1021,Ali Khan,North,Corporate,Headphones,Furniture,2927.02,1303.82,8,0.05
+700,2024-11-30,1000,John Smith,East,Consumer,Chair,Technology,3604.93,392.71,4,0.26
+701,2024-12-01,1132,Michael Lee,West,Consumer,Mobile,Office Supplies,665.89,601.38,4,0.12
+702,2024-12-02,1232,John Smith,South,Corporate,Chair,Office Supplies,3018.01,1388.93,2,0.09
+703,2024-12-03,1011,Ali Khan,North,Home Office,Chair,Furniture,2774.24,-75.44,5,0.41
+704,2024-12-04,1045,Fatima Zahra,East,Corporate,Desk,Office Supplies,2594.08,540.27,1,0.07
+705,2024-12-05,1033,Fatima Zahra,East,Home Office,Laptop,Furniture,3466.11,449.44,9,0.23
+706,2024-12-06,1077,Ali Khan,South,Corporate,Chair,Technology,4195.38,16.79,5,0.47
+707,2024-12-07,1217,Michael Lee,South,Consumer,Tablet,Technology,1648.8,1137.19,6,0.09
+708,2024-12-08,1072,Ali Khan,East,Consumer,Printer,Office Supplies,4450.61,1299.2,2,0.49
+709,2024-12-09,1281,Ayesha Noor,North,Consumer,Tablet,Office Supplies,845.14,1063.87,10,0.5
+710,2024-12-10,1248,Sara Ahmed,East,Home Office,Printer,Office Supplies,906.47,-109.28,10,0.28
+711,2024-12-11,1046,Michael Lee,West,Home Office,Headphones,Furniture,1370.52,-326.5,1,0.09
+712,2024-12-12,1120,John Smith,West,Corporate,Desk,Office Supplies,641.68,710.89,4,0.16
+713,2024-12-13,1213,Ayesha Noor,South,Corporate,Laptop,Office Supplies,1190.08,-385.81,7,0.21
+714,2024-12-14,1238,Michael Lee,North,Consumer,Tablet,Technology,576.74,845.65,6,0.15
+715,2024-12-15,1055,Ali Khan,North,Home Office,Laptop,Office Supplies,4117.67,560.85,10,0.14
+716,2024-12-16,1106,Ali Khan,West,Corporate,Tablet,Technology,737.9,825.57,1,0.49
+717,2024-12-17,1047,Ali Khan,East,Home Office,Headphones,Office Supplies,3749.12,680.34,1,0.08
+718,2024-12-18,1060,Ali Khan,South,Home Office,Printer,Technology,287.17,345.41,8,0.37
+719,2024-12-19,1025,John Smith,East,Consumer,Mobile,Office Supplies,4745.18,-98.25,4,0.0
+720,2024-12-20,1291,Ayesha Noor,East,Consumer,Desk,Technology,3570.24,111.4,5,0.3
+721,2024-12-21,1256,Fatima Zahra,East,Home Office,Tablet,Furniture,83.64,549.0,13,0.46
+722,2024-12-22,1007,Sara Ahmed,North,Home Office,Tablet,Technology,3831.09,803.74,7,0.14
+723,2024-12-23,1112,John Smith,West,Home Office,Headphones,Technology,2594.71,1058.97,8,0.09
+724,2024-12-24,1252,John Smith,North,Home Office,Desk,Technology,3907.86,1034.34,10,0.33
+725,2024-12-25,1179,Fatima Zahra,West,Consumer,Printer,Office Supplies,2636.36,1445.38,7,0.36
+726,2024-12-26,1206,Fatima Zahra,South,Corporate,Printer,Office Supplies,3223.07,71.68,2,0.34
+727,2024-12-27,1126,Sara Ahmed,South,Consumer,Tablet,Office Supplies,3942.34,-357.78,14,0.16
+728,2024-12-28,1055,Sara Ahmed,East,Corporate,Mobile,Furniture,2055.28,191.31,4,0.13
+729,2024-12-29,1213,Fatima Zahra,West,Home Office,Mobile,Furniture,63.41,986.59,10,0.48
+730,2024-12-30,1013,Ali Khan,West,Corporate,Laptop,Technology,4257.24,376.22,12,0.46
+731,2024-12-31,1027,John Smith,West,Consumer,Desk,Furniture,1935.41,1135.58,1,0.23
+732,2025-01-01,1077,Michael Lee,East,Consumer,Desk,Technology,2505.41,598.65,10,0.42
+733,2025-01-02,1215,Sara Ahmed,East,Home Office,Printer,Technology,88.44,1359.58,9,0.23
+734,2025-01-03,1153,Sara Ahmed,South,Consumer,Laptop,Technology,2485.86,1395.73,3,0.21
+735,2025-01-04,1013,Fatima Zahra,North,Home Office,Headphones,Furniture,4933.11,-361.39,12,0.08
+736,2025-01-05,1186,Ayesha Noor,West,Consumer,Desk,Office Supplies,1427.42,412.83,3,0.21
+737,2025-01-06,1006,Michael Lee,West,Consumer,Laptop,Furniture,2007.32,719.38,10,0.27
+738,2025-01-07,1002,Michael Lee,North,Home Office,Laptop,Technology,3451.59,11.75,9,0.01
+739,2025-01-08,1110,Sara Ahmed,West,Corporate,Tablet,Technology,4083.23,314.15,10,0.22
+740,2025-01-09,1237,Ali Khan,East,Consumer,Printer,Furniture,2116.09,855.36,3,0.39
+741,2025-01-10,1238,Ayesha Noor,East,Corporate,Laptop,Technology,1582.86,-46.53,8,0.34
+742,2025-01-11,1273,Michael Lee,West,Consumer,Mobile,Technology,4692.24,703.96,2,0.32
+743,2025-01-12,1293,Sara Ahmed,East,Consumer,Mobile,Furniture,3401.87,894.9,14,0.45
+744,2025-01-13,1226,Michael Lee,East,Consumer,Chair,Furniture,639.16,-319.01,13,0.01
+745,2025-01-14,1014,Ayesha Noor,West,Consumer,Printer,Furniture,391.19,495.06,3,0.28
+746,2025-01-15,1191,Ayesha Noor,South,Corporate,Tablet,Technology,2443.57,26.16,2,0.39
+747,2025-01-16,1118,John Smith,North,Corporate,Headphones,Technology,1139.45,948.77,1,0.27
+748,2025-01-17,1027,Fatima Zahra,East,Consumer,Chair,Office Supplies,1307.22,-120.89,2,0.16
+749,2025-01-18,1201,Fatima Zahra,South,Consumer,Mobile,Office Supplies,4394.58,1284.48,8,0.07
+750,2025-01-19,1038,Sara Ahmed,East,Corporate,Tablet,Furniture,493.35,361.88,9,0.44
+751,2025-01-20,1272,Ayesha Noor,East,Home Office,Chair,Office Supplies,3591.05,-103.99,13,0.24
+752,2025-01-21,1230,John Smith,North,Home Office,Printer,Technology,1392.15,376.04,2,0.44
+753,2025-01-22,1085,John Smith,East,Corporate,Tablet,Office Supplies,3813.62,317.49,7,0.29
+754,2025-01-23,1125,Michael Lee,North,Consumer,Printer,Technology,3625.94,357.84,5,0.34
+755,2025-01-24,1299,Michael Lee,North,Consumer,Laptop,Furniture,86.59,671.12,3,0.4
+756,2025-01-25,1024,John Smith,North,Home Office,Desk,Furniture,2570.22,542.35,9,0.33
+757,2025-01-26,1144,Michael Lee,South,Home Office,Laptop,Technology,739.63,-200.45,6,0.2
+758,2025-01-27,1012,Ayesha Noor,West,Corporate,Printer,Office Supplies,4337.82,-368.84,11,0.26
+759,2025-01-28,1211,Ali Khan,South,Home Office,Tablet,Furniture,4364.35,958.83,1,0.4
+760,2025-01-29,1024,Ayesha Noor,West,Corporate,Mobile,Furniture,2120.81,619.43,5,0.19
+761,2025-01-30,1067,John Smith,West,Home Office,Headphones,Office Supplies,2249.76,218.0,7,0.19
+762,2025-01-31,1066,John Smith,North,Home Office,Mobile,Office Supplies,1551.25,1116.72,4,0.05
+763,2025-02-01,1232,Ayesha Noor,East,Home Office,Tablet,Technology,3597.2,276.12,8,0.46
+764,2025-02-02,1108,Michael Lee,North,Consumer,Laptop,Office Supplies,1825.37,1091.93,10,0.05
+765,2025-02-03,1145,Michael Lee,East,Consumer,Headphones,Office Supplies,1375.57,111.51,5,0.32
+766,2025-02-04,1110,Fatima Zahra,West,Consumer,Tablet,Office Supplies,2189.54,-354.31,9,0.21
+767,2025-02-05,1227,John Smith,North,Home Office,Printer,Technology,502.86,1365.28,9,0.2
+768,2025-02-06,1110,Sara Ahmed,East,Corporate,Mobile,Technology,3745.69,289.1,9,0.34
+769,2025-02-07,1033,Fatima Zahra,South,Corporate,Printer,Furniture,112.35,1085.39,1,0.03
+770,2025-02-08,1110,Michael Lee,East,Corporate,Headphones,Technology,3240.2,58.29,2,0.3
+771,2025-02-09,1263,Ayesha Noor,North,Corporate,Headphones,Furniture,955.18,792.73,3,0.39
+772,2025-02-10,1235,Michael Lee,South,Consumer,Mobile,Office Supplies,1200.4,1246.62,14,0.41
+773,2025-02-11,1082,Ayesha Noor,East,Consumer,Printer,Furniture,3196.38,-416.71,4,0.09
+774,2025-02-12,1041,Fatima Zahra,East,Home Office,Chair,Furniture,4965.07,1161.27,10,0.45
+775,2025-02-13,1100,John Smith,East,Home Office,Printer,Office Supplies,3899.7,642.67,9,0.33
+776,2025-02-14,1005,Michael Lee,East,Corporate,Headphones,Furniture,1167.91,714.94,10,0.44
+777,2025-02-15,1179,Ayesha Noor,East,Consumer,Printer,Technology,921.32,546.32,13,0.24
+778,2025-02-16,1281,John Smith,South,Corporate,Tablet,Technology,4337.85,1248.95,6,0.27
+779,2025-02-17,1225,Sara Ahmed,West,Home Office,Laptop,Technology,2248.71,-413.13,1,0.46
+780,2025-02-18,1228,Ayesha Noor,South,Home Office,Chair,Technology,728.41,22.06,12,0.45
+781,2025-02-19,1288,Fatima Zahra,South,Corporate,Desk,Furniture,4317.95,1251.53,9,0.22
+782,2025-02-20,1149,Sara Ahmed,South,Home Office,Tablet,Furniture,4089.66,1004.69,6,0.14
+783,2025-02-21,1276,Sara Ahmed,West,Corporate,Laptop,Office Supplies,4920.34,-464.71,4,0.2
+784,2025-02-22,1197,Ali Khan,North,Consumer,Desk,Furniture,4553.23,534.01,14,0.19
+785,2025-02-23,1069,Michael Lee,West,Corporate,Mobile,Furniture,4266.36,559.15,4,0.14
+786,2025-02-24,1111,Ayesha Noor,South,Consumer,Desk,Furniture,310.24,301.76,3,0.13
+787,2025-02-25,1003,Sara Ahmed,East,Consumer,Tablet,Office Supplies,566.86,94.79,7,0.43
+788,2025-02-26,1094,Ali Khan,East,Home Office,Printer,Technology,2866.47,863.45,3,0.03
+789,2025-02-27,1151,Fatima Zahra,South,Home Office,Tablet,Furniture,2680.82,-84.42,2,0.34
+790,2025-02-28,1136,John Smith,East,Home Office,Desk,Office Supplies,2316.92,1097.9,10,0.09
+791,2025-03-01,1246,Ayesha Noor,South,Corporate,Headphones,Office Supplies,2014.11,1106.07,8,0.17
+792,2025-03-02,1242,Sara Ahmed,East,Corporate,Laptop,Office Supplies,2184.49,330.52,4,0.03
+793,2025-03-03,1030,Michael Lee,West,Home Office,Laptop,Technology,2868.02,67.1,8,0.13
+794,2025-03-04,1039,Ali Khan,North,Corporate,Desk,Furniture,60.28,67.76,1,0.38
+795,2025-03-05,1228,Sara Ahmed,North,Home Office,Laptop,Office Supplies,1340.51,464.58,5,0.44
+796,2025-03-06,1035,Michael Lee,West,Corporate,Headphones,Technology,2615.48,939.16,13,0.11
+797,2025-03-07,1222,Sara Ahmed,West,Consumer,Tablet,Office Supplies,3624.97,217.74,9,0.23
+798,2025-03-08,1005,Ayesha Noor,South,Consumer,Laptop,Office Supplies,912.08,720.09,1,0.24
+799,2025-03-09,1219,Ayesha Noor,South,Home Office,Desk,Office Supplies,2757.06,264.97,11,0.44
+800,2025-03-10,1074,Ayesha Noor,South,Corporate,Chair,Office Supplies,3586.58,109.05,13,0.38
+801,2025-03-11,1003,Fatima Zahra,East,Corporate,Chair,Office Supplies,2250.91,-450.28,4,0.26
+802,2025-03-12,1133,Fatima Zahra,South,Consumer,Mobile,Technology,184.05,-492.17,6,0.34
+803,2025-03-13,1117,Ali Khan,West,Consumer,Laptop,Furniture,2273.88,-45.58,10,0.42
+804,2025-03-14,1093,Ayesha Noor,North,Home Office,Tablet,Furniture,1517.4,312.81,8,0.0
+805,2025-03-15,1061,Michael Lee,East,Consumer,Desk,Furniture,4651.77,1202.52,14,0.2
+806,2025-03-16,1193,Sara Ahmed,South,Home Office,Laptop,Furniture,666.84,1096.97,3,0.45
+807,2025-03-17,1202,John Smith,East,Consumer,Printer,Technology,3279.76,34.33,5,0.37
+808,2025-03-18,1025,Michael Lee,East,Consumer,Headphones,Technology,310.96,-10.92,7,0.27
+809,2025-03-19,1172,Fatima Zahra,South,Corporate,Laptop,Technology,2258.54,-45.36,1,0.26
+810,2025-03-20,1299,Fatima Zahra,East,Consumer,Laptop,Office Supplies,2792.2,178.47,7,0.17
+811,2025-03-21,1132,Michael Lee,North,Consumer,Chair,Office Supplies,1524.88,496.4,13,0.26
+812,2025-03-22,1117,Fatima Zahra,West,Home Office,Headphones,Office Supplies,2302.62,377.34,12,0.33
+813,2025-03-23,1274,Ayesha Noor,West,Consumer,Desk,Furniture,859.59,-63.45,11,0.21
+814,2025-03-24,1211,Ali Khan,North,Home Office,Laptop,Office Supplies,1555.41,-239.1,8,0.36
+815,2025-03-25,1224,Sara Ahmed,East,Consumer,Chair,Furniture,3124.48,-474.84,8,0.43
+816,2025-03-26,1019,Ali Khan,South,Consumer,Mobile,Office Supplies,1543.91,-192.07,9,0.08
+817,2025-03-27,1112,Sara Ahmed,East,Home Office,Headphones,Furniture,4503.73,910.71,6,0.23
+818,2025-03-28,1139,Sara Ahmed,North,Corporate,Chair,Office Supplies,3160.61,-12.72,12,0.2
+819,2025-03-29,1046,Ali Khan,East,Home Office,Chair,Office Supplies,2221.31,437.2,6,0.34
+820,2025-03-30,1000,Michael Lee,West,Home Office,Tablet,Technology,241.85,682.6,2,0.12
+821,2025-03-31,1089,Sara Ahmed,East,Home Office,Chair,Office Supplies,2522.76,1273.68,3,0.32
+822,2025-04-01,1141,Ali Khan,North,Corporate,Tablet,Office Supplies,3835.64,1277.71,4,0.44
+823,2025-04-02,1037,Sara Ahmed,West,Consumer,Laptop,Technology,1364.51,991.47,4,0.21
+824,2025-04-03,1292,John Smith,East,Home Office,Laptop,Furniture,4043.53,-429.69,8,0.46
+825,2025-04-04,1138,Michael Lee,East,Home Office,Mobile,Technology,1296.44,650.14,14,0.5
+826,2025-04-05,1258,Ayesha Noor,West,Corporate,Printer,Technology,4127.54,1073.17,1,0.05
+827,2025-04-06,1160,Sara Ahmed,South,Home Office,Printer,Furniture,472.08,-465.42,10,0.12
+828,2025-04-07,1177,John Smith,West,Consumer,Printer,Office Supplies,4337.61,599.37,14,0.48
+829,2025-04-08,1009,Ayesha Noor,South,Corporate,Tablet,Furniture,2520.97,1215.53,4,0.48
+830,2025-04-09,1260,Ayesha Noor,North,Consumer,Headphones,Office Supplies,1517.86,448.2,11,0.05
+831,2025-04-10,1137,Sara Ahmed,North,Consumer,Headphones,Office Supplies,1362.31,-491.79,12,0.01
+832,2025-04-11,1171,Ali Khan,West,Corporate,Mobile,Furniture,2188.45,-477.97,13,0.08
+833,2025-04-12,1012,Sara Ahmed,West,Home Office,Headphones,Technology,4995.3,333.27,11,0.5
+834,2025-04-13,1167,John Smith,North,Consumer,Printer,Furniture,1140.62,-189.98,11,0.09
+835,2025-04-14,1129,Ayesha Noor,South,Consumer,Printer,Office Supplies,560.92,828.9,4,0.25
+836,2025-04-15,1083,Sara Ahmed,North,Consumer,Chair,Furniture,2945.92,917.6,1,0.42
+837,2025-04-16,1100,Ali Khan,West,Consumer,Headphones,Furniture,2468.29,-144.24,3,0.01
+838,2025-04-17,1272,Sara Ahmed,North,Corporate,Laptop,Office Supplies,2644.77,1277.07,5,0.3
+839,2025-04-18,1264,Michael Lee,West,Corporate,Laptop,Technology,3351.33,383.82,6,0.14
+840,2025-04-19,1037,Ali Khan,West,Consumer,Chair,Furniture,1372.36,-214.31,9,0.43
+841,2025-04-20,1093,John Smith,North,Home Office,Chair,Office Supplies,4557.79,1028.5,9,0.14
+842,2025-04-21,1094,Ayesha Noor,South,Consumer,Chair,Office Supplies,2206.58,1079.95,9,0.34
+843,2025-04-22,1068,Sara Ahmed,East,Home Office,Laptop,Furniture,688.98,778.59,11,0.34
+844,2025-04-23,1235,Ali Khan,North,Consumer,Printer,Technology,3724.38,1206.93,1,0.11
+845,2025-04-24,1136,Michael Lee,East,Home Office,Chair,Furniture,3233.37,974.75,12,0.02
+846,2025-04-25,1075,Ali Khan,North,Consumer,Mobile,Technology,1612.93,1264.41,9,0.2
+847,2025-04-26,1034,Fatima Zahra,East,Home Office,Tablet,Technology,3126.52,367.78,13,0.14
+848,2025-04-27,1000,Michael Lee,South,Consumer,Chair,Technology,1138.32,995.19,8,0.4
+849,2025-04-28,1295,John Smith,South,Consumer,Tablet,Technology,2251.95,1499.5,2,0.4
+850,2025-04-29,1059,Ayesha Noor,North,Home Office,Desk,Furniture,4502.09,949.86,13,0.23
+851,2025-04-30,1266,John Smith,West,Corporate,Chair,Office Supplies,710.99,-271.63,11,0.3
+852,2025-05-01,1228,Sara Ahmed,East,Home Office,Laptop,Office Supplies,1964.15,536.64,1,0.3
+853,2025-05-02,1269,Ali Khan,West,Corporate,Headphones,Office Supplies,4114.66,674.7,1,0.41
+854,2025-05-03,1285,Fatima Zahra,West,Consumer,Chair,Office Supplies,4848.98,-151.58,12,0.21
+855,2025-05-04,1290,Michael Lee,West,Home Office,Headphones,Office Supplies,2296.93,1425.78,6,0.14
+856,2025-05-05,1212,Michael Lee,South,Home Office,Desk,Office Supplies,2559.65,-148.84,9,0.13
+857,2025-05-06,1164,Ali Khan,North,Home Office,Mobile,Furniture,2882.25,-144.88,7,0.27
+858,2025-05-07,1004,Fatima Zahra,North,Corporate,Headphones,Technology,4665.12,1330.33,5,0.22
+859,2025-05-08,1077,Ali Khan,South,Corporate,Tablet,Office Supplies,4298.12,430.41,11,0.22
+860,2025-05-09,1061,Sara Ahmed,South,Consumer,Printer,Furniture,894.48,-373.62,2,0.05
+861,2025-05-10,1131,John Smith,North,Corporate,Chair,Office Supplies,2211.95,696.37,1,0.36
+862,2025-05-11,1088,Michael Lee,West,Corporate,Desk,Office Supplies,2346.8,703.65,2,0.11
+863,2025-05-12,1236,Sara Ahmed,East,Consumer,Desk,Technology,3956.03,-371.0,1,0.1
+864,2025-05-13,1041,John Smith,East,Home Office,Headphones,Technology,3034.32,1445.04,3,0.21
+865,2025-05-14,1088,Sara Ahmed,East,Home Office,Mobile,Technology,3288.39,588.06,6,0.11
+866,2025-05-15,1295,Fatima Zahra,West,Consumer,Laptop,Office Supplies,4991.09,619.59,13,0.29
+867,2025-05-16,1294,Michael Lee,North,Home Office,Chair,Office Supplies,421.05,540.23,8,0.19
+868,2025-05-17,1103,Ali Khan,South,Corporate,Desk,Office Supplies,1153.9,721.46,3,0.22
+869,2025-05-18,1013,Ali Khan,North,Consumer,Mobile,Technology,2069.08,28.6,10,0.27
+870,2025-05-19,1287,John Smith,West,Consumer,Printer,Furniture,1771.52,74.48,9,0.1
+871,2025-05-20,1178,Ayesha Noor,South,Consumer,Desk,Office Supplies,157.15,522.68,10,0.08
+872,2025-05-21,1124,Fatima Zahra,West,Home Office,Mobile,Office Supplies,504.3,1113.37,5,0.44
+873,2025-05-22,1022,John Smith,East,Consumer,Laptop,Office Supplies,3420.72,-400.27,7,0.22
+874,2025-05-23,1062,Ayesha Noor,East,Consumer,Laptop,Furniture,4402.66,706.81,8,0.21
+875,2025-05-24,1142,Sara Ahmed,West,Consumer,Desk,Office Supplies,2595.42,1113.56,3,0.02
+876,2025-05-25,1152,Fatima Zahra,South,Home Office,Tablet,Furniture,2719.0,-186.17,2,0.25
+877,2025-05-26,1144,Sara Ahmed,South,Corporate,Desk,Office Supplies,1312.71,-469.95,2,0.28
+878,2025-05-27,1224,Michael Lee,North,Consumer,Headphones,Furniture,3850.99,125.43,5,0.28
+879,2025-05-28,1103,Fatima Zahra,East,Corporate,Chair,Office Supplies,3771.38,676.29,1,0.35
+880,2025-05-29,1103,Ayesha Noor,North,Home Office,Mobile,Technology,2962.41,-223.43,2,0.09
+881,2025-05-30,1038,Michael Lee,North,Home Office,Desk,Technology,1102.69,352.24,13,0.13
+882,2025-05-31,1197,Ali Khan,West,Home Office,Chair,Technology,530.24,604.64,9,0.41
+883,2025-06-01,1133,Ayesha Noor,West,Home Office,Headphones,Technology,367.98,697.77,7,0.47
+884,2025-06-02,1066,John Smith,North,Corporate,Chair,Office Supplies,2983.85,48.82,6,0.07
+885,2025-06-03,1178,Ali Khan,East,Consumer,Desk,Technology,4133.92,300.06,9,0.25
+886,2025-06-04,1041,Ali Khan,West,Home Office,Laptop,Furniture,4298.74,1056.68,7,0.11
+887,2025-06-05,1014,John Smith,North,Home Office,Mobile,Technology,2344.93,1382.43,14,0.03
+888,2025-06-06,1110,Fatima Zahra,North,Corporate,Mobile,Technology,3932.14,1223.76,11,0.16
+889,2025-06-07,1156,Ali Khan,North,Corporate,Laptop,Technology,4737.06,628.57,5,0.07
+890,2025-06-08,1288,Ayesha Noor,North,Home Office,Tablet,Office Supplies,1412.09,320.59,9,0.35
+891,2025-06-09,1230,Michael Lee,North,Consumer,Desk,Technology,2019.9,165.91,6,0.27
+892,2025-06-10,1156,Ali Khan,North,Consumer,Mobile,Furniture,4660.82,-250.09,6,0.07
+893,2025-06-11,1037,Ayesha Noor,West,Home Office,Desk,Technology,1724.24,-286.9,11,0.0
+894,2025-06-12,1096,Sara Ahmed,East,Corporate,Headphones,Technology,4573.69,876.72,4,0.4
+895,2025-06-13,1288,Ayesha Noor,North,Home Office,Desk,Technology,4906.17,19.59,13,0.09
+896,2025-06-14,1253,Michael Lee,South,Home Office,Chair,Furniture,3325.96,9.32,12,0.3
+897,2025-06-15,1195,Ayesha Noor,West,Corporate,Laptop,Technology,4093.61,1496.39,1,0.17
+898,2025-06-16,1085,John Smith,West,Home Office,Tablet,Furniture,3760.25,-124.15,5,0.29
+899,2025-06-17,1009,Michael Lee,North,Home Office,Desk,Furniture,3512.69,-203.88,11,0.16
+900,2025-06-18,1004,Fatima Zahra,West,Home Office,Tablet,Technology,1569.31,-302.63,9,0.04
+901,2025-06-19,1122,Sara Ahmed,North,Corporate,Tablet,Furniture,332.62,659.61,13,0.11
+902,2025-06-20,1117,John Smith,East,Consumer,Headphones,Office Supplies,1748.11,755.73,8,0.09
+903,2025-06-21,1293,Fatima Zahra,East,Consumer,Printer,Technology,3351.33,230.46,8,0.21
+904,2025-06-22,1158,Ayesha Noor,West,Corporate,Laptop,Technology,557.52,570.83,5,0.33
+905,2025-06-23,1227,Michael Lee,West,Consumer,Tablet,Furniture,108.99,1076.8,12,0.13
+906,2025-06-24,1215,Sara Ahmed,South,Home Office,Mobile,Furniture,741.48,1136.21,9,0.01
+907,2025-06-25,1183,John Smith,West,Consumer,Chair,Technology,3592.89,1415.82,3,0.26
+908,2025-06-26,1014,Fatima Zahra,South,Home Office,Mobile,Office Supplies,4865.33,1148.54,3,0.3
+909,2025-06-27,1156,Fatima Zahra,East,Consumer,Headphones,Furniture,4916.17,629.68,1,0.48
+910,2025-06-28,1135,Sara Ahmed,East,Corporate,Headphones,Furniture,2495.2,-140.69,9,0.29
+911,2025-06-29,1260,Ayesha Noor,North,Consumer,Mobile,Office Supplies,4353.29,-300.47,6,0.24
+912,2025-06-30,1156,Sara Ahmed,East,Consumer,Laptop,Office Supplies,3697.29,-390.98,2,0.29
+913,2025-07-01,1046,Fatima Zahra,South,Consumer,Mobile,Technology,2530.15,833.05,8,0.46
+914,2025-07-02,1172,Ali Khan,West,Corporate,Desk,Office Supplies,2885.16,1115.07,12,0.41
+915,2025-07-03,1129,John Smith,North,Consumer,Mobile,Technology,729.27,517.37,9,0.16
+916,2025-07-04,1094,Sara Ahmed,South,Corporate,Chair,Office Supplies,4691.42,-390.57,9,0.12
+917,2025-07-05,1114,Fatima Zahra,West,Home Office,Chair,Furniture,1792.05,570.94,2,0.13
+918,2025-07-06,1242,Ayesha Noor,North,Consumer,Printer,Technology,2258.44,1371.5,2,0.25
+919,2025-07-07,1291,Fatima Zahra,East,Corporate,Chair,Technology,3374.72,695.23,13,0.37
+920,2025-07-08,1281,Ayesha Noor,South,Corporate,Mobile,Technology,1702.82,1118.85,7,0.25
+921,2025-07-09,1298,Sara Ahmed,West,Consumer,Chair,Office Supplies,1308.58,1100.31,11,0.03
+922,2025-07-10,1282,Ayesha Noor,North,Home Office,Laptop,Furniture,3173.69,1364.26,4,0.36
+923,2025-07-11,1068,Michael Lee,North,Corporate,Tablet,Technology,173.67,1040.46,13,0.4
+924,2025-07-12,1147,Michael Lee,East,Consumer,Chair,Technology,3617.59,995.4,1,0.14
+925,2025-07-13,1010,Michael Lee,West,Home Office,Desk,Technology,2594.42,-31.79,8,0.33
+926,2025-07-14,1253,Ali Khan,East,Corporate,Laptop,Technology,3048.48,-380.15,2,0.21
+927,2025-07-15,1037,Sara Ahmed,East,Corporate,Printer,Furniture,3177.81,535.2,14,0.44
+928,2025-07-16,1133,Fatima Zahra,West,Home Office,Desk,Office Supplies,2658.9,-251.13,3,0.42
+929,2025-07-17,1199,Fatima Zahra,West,Home Office,Mobile,Furniture,2933.54,1424.39,5,0.26
+930,2025-07-18,1022,Ali Khan,West,Consumer,Tablet,Technology,3434.75,79.85,14,0.35
+931,2025-07-19,1217,Ayesha Noor,South,Consumer,Mobile,Furniture,3777.94,1205.89,3,0.44
+932,2025-07-20,1140,Ali Khan,West,Corporate,Tablet,Technology,3650.89,275.25,7,0.25
+933,2025-07-21,1103,Ayesha Noor,North,Home Office,Tablet,Office Supplies,4354.6,146.39,7,0.16
+934,2025-07-22,1209,Ayesha Noor,East,Home Office,Mobile,Office Supplies,987.74,1370.32,14,0.38
+935,2025-07-23,1110,John Smith,South,Home Office,Desk,Office Supplies,2035.68,226.65,2,0.11
+936,2025-07-24,1103,Fatima Zahra,West,Corporate,Desk,Technology,4741.59,280.58,13,0.19
+937,2025-07-25,1170,Michael Lee,South,Home Office,Tablet,Furniture,2013.12,-287.82,13,0.43
+938,2025-07-26,1132,Ayesha Noor,West,Home Office,Desk,Office Supplies,668.11,840.89,7,0.36
+939,2025-07-27,1292,John Smith,South,Corporate,Tablet,Technology,2650.95,77.68,11,0.2
+940,2025-07-28,1126,Fatima Zahra,East,Consumer,Tablet,Technology,591.98,671.21,6,0.11
+941,2025-07-29,1105,Michael Lee,East,Consumer,Laptop,Furniture,1054.12,682.7,10,0.18
+942,2025-07-30,1091,Ayesha Noor,North,Corporate,Headphones,Office Supplies,4991.68,938.4,9,0.14
+943,2025-07-31,1286,Ayesha Noor,North,Home Office,Laptop,Technology,2729.75,990.48,13,0.09
+944,2025-08-01,1050,Ali Khan,West,Corporate,Mobile,Furniture,1456.09,528.9,9,0.37
+945,2025-08-02,1028,Ali Khan,East,Consumer,Headphones,Office Supplies,4974.14,161.98,2,0.13
+946,2025-08-03,1295,Fatima Zahra,South,Consumer,Chair,Furniture,4834.47,1174.9,7,0.23
+947,2025-08-04,1296,Michael Lee,South,Corporate,Mobile,Furniture,2231.66,119.73,5,0.19
+948,2025-08-05,1213,Ayesha Noor,South,Corporate,Printer,Technology,1339.0,515.02,13,0.49
+949,2025-08-06,1266,Fatima Zahra,North,Consumer,Laptop,Technology,4200.08,302.51,6,0.2
+950,2025-08-07,1256,Fatima Zahra,South,Corporate,Desk,Technology,3592.32,1210.16,1,0.04
+951,2025-08-08,1100,Sara Ahmed,North,Consumer,Laptop,Furniture,3450.36,363.84,7,0.04
+952,2025-08-09,1109,Ali Khan,North,Corporate,Desk,Technology,4470.91,272.2,6,0.3
+953,2025-08-10,1181,Michael Lee,West,Corporate,Headphones,Furniture,3462.61,879.65,4,0.3
+954,2025-08-11,1000,Ayesha Noor,South,Corporate,Printer,Furniture,1454.8,704.88,1,0.21
+955,2025-08-12,1054,Fatima Zahra,South,Consumer,Headphones,Technology,3484.62,-285.51,9,0.22
+956,2025-08-13,1148,Ayesha Noor,East,Corporate,Printer,Office Supplies,1563.78,516.34,4,0.03
+957,2025-08-14,1136,Sara Ahmed,West,Consumer,Laptop,Office Supplies,3808.23,970.96,2,0.26
+958,2025-08-15,1201,Michael Lee,East,Consumer,Desk,Office Supplies,3117.75,1484.15,8,0.25
+959,2025-08-16,1116,Fatima Zahra,West,Corporate,Headphones,Furniture,433.19,758.29,2,0.07
+960,2025-08-17,1153,Ayesha Noor,South,Corporate,Printer,Furniture,2588.54,240.59,5,0.05
+961,2025-08-18,1290,Ali Khan,North,Consumer,Tablet,Furniture,1749.34,-47.7,11,0.06
+962,2025-08-19,1062,Sara Ahmed,North,Consumer,Mobile,Technology,1676.42,1245.66,6,0.05
+963,2025-08-20,1243,Michael Lee,North,Home Office,Mobile,Furniture,3031.17,1129.13,11,0.3
+964,2025-08-21,1024,Sara Ahmed,North,Consumer,Headphones,Technology,1645.51,-32.15,13,0.1
+965,2025-08-22,1089,Ali Khan,North,Home Office,Desk,Technology,3895.62,-98.74,8,0.13
+966,2025-08-23,1074,Michael Lee,East,Home Office,Tablet,Office Supplies,400.42,930.27,11,0.09
+967,2025-08-24,1293,Sara Ahmed,West,Home Office,Headphones,Office Supplies,3318.92,129.9,1,0.48
+968,2025-08-25,1209,John Smith,South,Corporate,Laptop,Office Supplies,4055.51,112.8,1,0.43
+969,2025-08-26,1016,Ali Khan,East,Corporate,Printer,Technology,3380.52,-195.42,12,0.12
+970,2025-08-27,1127,Ali Khan,West,Consumer,Laptop,Technology,2511.28,27.95,4,0.16
+971,2025-08-28,1250,Ali Khan,North,Home Office,Mobile,Technology,4754.02,355.02,5,0.1
+972,2025-08-29,1178,John Smith,West,Corporate,Printer,Furniture,1534.7,965.68,13,0.25
+973,2025-08-30,1181,John Smith,West,Corporate,Headphones,Technology,144.88,172.62,13,0.01
+974,2025-08-31,1151,Ayesha Noor,North,Corporate,Laptop,Office Supplies,2188.35,157.21,9,0.34
+975,2025-09-01,1024,Fatima Zahra,North,Corporate,Chair,Office Supplies,213.41,69.83,11,0.26
+976,2025-09-02,1179,Sara Ahmed,North,Corporate,Desk,Technology,4771.99,456.57,14,0.45
+977,2025-09-03,1197,Ayesha Noor,South,Home Office,Tablet,Technology,1089.09,-138.73,7,0.08
+978,2025-09-04,1160,Sara Ahmed,North,Home Office,Tablet,Office Supplies,3955.19,471.26,7,0.4
+979,2025-09-05,1176,Fatima Zahra,South,Home Office,Desk,Technology,3884.13,908.35,8,0.4
+980,2025-09-06,1284,John Smith,North,Home Office,Chair,Office Supplies,1127.76,-440.42,5,0.06
+981,2025-09-07,1062,Fatima Zahra,South,Consumer,Mobile,Furniture,3125.07,-480.44,5,0.2
+982,2025-09-08,1149,John Smith,West,Home Office,Printer,Office Supplies,287.99,-349.75,1,0.09
+983,2025-09-09,1153,Fatima Zahra,East,Corporate,Desk,Furniture,2443.69,571.32,14,0.13
+984,2025-09-10,1155,Ayesha Noor,West,Home Office,Chair,Technology,122.5,1208.91,9,0.13
+985,2025-09-11,1048,Michael Lee,West,Consumer,Headphones,Technology,4609.66,-490.23,6,0.28
+986,2025-09-12,1083,Ayesha Noor,North,Corporate,Tablet,Furniture,4881.63,1373.32,9,0.21
+987,2025-09-13,1176,Sara Ahmed,South,Home Office,Chair,Technology,1150.3,-287.44,3,0.47
+988,2025-09-14,1147,Ayesha Noor,East,Home Office,Mobile,Furniture,1080.12,1183.97,5,0.06
+989,2025-09-15,1117,Ali Khan,North,Home Office,Mobile,Technology,3780.91,465.71,2,0.49
+990,2025-09-16,1062,Sara Ahmed,North,Corporate,Laptop,Office Supplies,1304.23,818.71,10,0.12
+991,2025-09-17,1188,Fatima Zahra,North,Corporate,Desk,Technology,4480.63,521.37,5,0.39
+992,2025-09-18,1048,Sara Ahmed,West,Consumer,Laptop,Office Supplies,2890.95,454.1,13,0.17
+993,2025-09-19,1256,Michael Lee,South,Corporate,Tablet,Office Supplies,1786.35,1169.8,13,0.07
+994,2025-09-20,1223,John Smith,South,Corporate,Chair,Furniture,4171.83,1011.77,13,0.43
+995,2025-09-21,1140,Fatima Zahra,East,Home Office,Printer,Technology,2492.36,466.8,14,0.15
+996,2025-09-22,1214,Sara Ahmed,South,Corporate,Printer,Furniture,4562.58,-276.73,8,0.33
+997,2025-09-23,1210,Fatima Zahra,South,Home Office,Mobile,Technology,4643.67,-269.19,11,0.28
+998,2025-09-24,1031,Fatima Zahra,North,Home Office,Printer,Office Supplies,868.83,1103.08,2,0.24
+999,2025-09-25,1157,Fatima Zahra,North,Corporate,Printer,Office Supplies,61.5,558.78,8,0.25
+1000,2025-09-26,1284,John Smith,West,Consumer,Tablet,Technology,4920.46,463.18,4,0.37
+1001,2025-09-27,1285,Ayesha Noor,North,Consumer,Printer,Technology,4535.38,861.13,10,0.04
+1002,2025-09-28,1143,Fatima Zahra,North,Corporate,Chair,Furniture,324.45,1217.68,10,0.33
+1003,2025-09-29,1018,Ali Khan,North,Consumer,Printer,Technology,4173.52,757.75,1,0.45
+1004,2025-09-30,1017,Michael Lee,North,Home Office,Headphones,Technology,2316.13,1025.7,13,0.03
+1005,2025-10-01,1256,John Smith,West,Home Office,Printer,Technology,1331.86,1030.54,5,0.07
+1006,2025-10-02,1077,Sara Ahmed,North,Corporate,Printer,Furniture,4399.8,212.52,13,0.36
+1007,2025-10-03,1174,John Smith,East,Consumer,Laptop,Technology,1023.5,48.17,1,0.22
+1008,2025-10-04,1193,Sara Ahmed,East,Consumer,Chair,Office Supplies,4739.13,1102.33,7,0.2
+1009,2025-10-05,1112,John Smith,East,Home Office,Mobile,Furniture,1067.83,254.36,8,0.07
+1010,2025-10-06,1113,Sara Ahmed,East,Corporate,Laptop,Furniture,3087.73,1306.67,3,0.25
+1011,2025-10-07,1221,Fatima Zahra,North,Consumer,Desk,Office Supplies,1154.28,-360.62,3,0.06
+1012,2025-10-08,1165,Ayesha Noor,East,Corporate,Chair,Office Supplies,2751.06,-383.56,7,0.24
+1013,2025-10-09,1131,Sara Ahmed,North,Consumer,Headphones,Office Supplies,3435.68,1354.01,4,0.38
+1014,2025-10-10,1263,Sara Ahmed,West,Home Office,Chair,Technology,991.63,796.91,3,0.13
+1015,2025-10-11,1054,Ali Khan,East,Home Office,Desk,Office Supplies,2628.38,259.2,8,0.24
+1016,2025-10-12,1130,Sara Ahmed,South,Corporate,Desk,Technology,2371.85,1010.12,3,0.5
+1017,2025-10-13,1287,Ali Khan,East,Home Office,Desk,Furniture,401.64,844.65,13,0.34
+1018,2025-10-14,1265,Michael Lee,East,Consumer,Tablet,Furniture,4100.62,562.4,14,0.42
+1019,2025-10-15,1161,Fatima Zahra,North,Home Office,Mobile,Office Supplies,1711.63,-302.25,7,0.21
+1020,2025-10-16,1086,Ali Khan,East,Corporate,Printer,Technology,2894.18,1124.36,2,0.38
+1021,2025-10-17,1054,Ayesha Noor,South,Corporate,Chair,Office Supplies,2598.18,1232.05,11,0.02
+1022,2025-10-18,1287,Fatima Zahra,North,Corporate,Tablet,Office Supplies,2590.64,-155.66,11,0.06
+1023,2025-10-19,1177,Ali Khan,North,Consumer,Printer,Technology,580.75,1201.02,1,0.1
+1024,2025-10-20,1007,Fatima Zahra,West,Consumer,Printer,Office Supplies,2146.24,1255.69,12,0.2
+1025,2025-10-21,1246,Fatima Zahra,West,Consumer,Headphones,Furniture,2289.22,598.86,6,0.42
+1026,2025-10-22,1254,Fatima Zahra,East,Consumer,Desk,Office Supplies,3681.53,812.36,8,0.17
+1027,2025-10-23,1053,Michael Lee,West,Consumer,Mobile,Technology,4208.09,264.47,1,0.33
+1028,2025-10-24,1248,Ayesha Noor,West,Home Office,Headphones,Technology,2747.66,63.58,13,0.35
+1029,2025-10-25,1238,John Smith,West,Consumer,Laptop,Furniture,479.58,943.97,10,0.29
+1030,2025-10-26,1228,John Smith,North,Consumer,Tablet,Technology,1222.4,1223.75,12,0.18
+1031,2025-10-27,1066,Ali Khan,North,Home Office,Tablet,Technology,866.42,808.16,9,0.29
+1032,2025-10-28,1050,Fatima Zahra,North,Consumer,Mobile,Furniture,666.84,523.18,3,0.17
+1033,2025-10-29,1096,Ali Khan,West,Corporate,Printer,Office Supplies,1861.2,-182.15,3,0.04
+1034,2025-10-30,1091,Michael Lee,North,Consumer,Tablet,Furniture,1185.5,-393.08,4,0.5
+1035,2025-10-31,1263,Michael Lee,West,Consumer,Mobile,Office Supplies,1130.6,391.38,11,0.06
+1036,2025-11-01,1290,Sara Ahmed,North,Corporate,Tablet,Furniture,320.73,-401.3,1,0.04
+1037,2025-11-02,1095,Michael Lee,North,Corporate,Tablet,Office Supplies,137.47,638.67,9,0.44
+1038,2025-11-03,1087,Sara Ahmed,South,Corporate,Desk,Furniture,558.7,265.46,11,0.15
+1039,2025-11-04,1077,Ayesha Noor,East,Corporate,Laptop,Office Supplies,902.38,1014.38,3,0.33
+1040,2025-11-05,1287,Ali Khan,West,Consumer,Desk,Furniture,2183.37,111.3,13,0.16
+1041,2025-11-06,1119,Ayesha Noor,South,Corporate,Laptop,Office Supplies,2577.08,685.97,10,0.2
+1042,2025-11-07,1164,Michael Lee,North,Corporate,Tablet,Furniture,745.93,575.37,4,0.13
+1043,2025-11-08,1181,Ayesha Noor,West,Home Office,Headphones,Technology,2152.68,-490.58,1,0.17
+1044,2025-11-09,1222,Ayesha Noor,North,Corporate,Printer,Office Supplies,1741.66,-355.22,4,0.21
+1045,2025-11-10,1006,Ayesha Noor,East,Corporate,Tablet,Furniture,957.95,80.74,13,0.36
+1046,2025-11-11,1262,Michael Lee,South,Home Office,Laptop,Office Supplies,83.86,1264.47,1,0.26
+1047,2025-11-12,1160,Fatima Zahra,East,Home Office,Laptop,Office Supplies,2361.74,-205.97,5,0.47
+1048,2025-11-13,1150,Ayesha Noor,South,Consumer,Laptop,Furniture,3443.98,921.79,5,0.02
+1049,2025-11-14,1084,Sara Ahmed,North,Home Office,Tablet,Office Supplies,1170.07,1446.73,14,0.25
+1050,2025-11-15,1146,Michael Lee,East,Consumer,Mobile,Furniture,702.44,1081.14,11,0.29
+1051,2025-11-16,1111,Ayesha Noor,East,Home Office,Headphones,Technology,4440.86,-14.11,7,0.46
+1052,2025-11-17,1035,Fatima Zahra,North,Home Office,Mobile,Office Supplies,1411.37,1316.73,14,0.02
+1053,2025-11-18,1284,Michael Lee,East,Consumer,Printer,Technology,1156.88,-313.79,8,0.29
+1054,2025-11-19,1187,John Smith,West,Home Office,Tablet,Office Supplies,4292.63,436.28,4,0.43
+1055,2025-11-20,1081,Fatima Zahra,South,Consumer,Laptop,Office Supplies,4094.68,1275.08,7,0.12
+1056,2025-11-21,1001,Sara Ahmed,South,Home Office,Headphones,Office Supplies,2269.32,782.53,4,0.44
+1057,2025-11-22,1196,Ayesha Noor,South,Corporate,Headphones,Furniture,2471.73,327.29,3,0.01
+1058,2025-11-23,1010,John Smith,West,Home Office,Chair,Technology,1127.86,85.63,6,0.37
+1059,2025-11-24,1233,John Smith,South,Consumer,Printer,Office Supplies,437.59,250.2,4,0.47
+1060,2025-11-25,1194,Michael Lee,North,Home Office,Headphones,Furniture,2888.49,517.88,14,0.33
+1061,2025-11-26,1118,John Smith,East,Consumer,Tablet,Office Supplies,536.81,138.09,3,0.22
+1062,2025-11-27,1019,Sara Ahmed,West,Consumer,Laptop,Furniture,2273.91,1437.94,9,0.02
+1063,2025-11-28,1260,Sara Ahmed,South,Corporate,Laptop,Office Supplies,4705.46,1366.16,5,0.46
+1064,2025-11-29,1292,Ali Khan,North,Corporate,Headphones,Technology,4766.53,1241.34,13,0.24
+1065,2025-11-30,1255,Sara Ahmed,East,Consumer,Mobile,Technology,1234.69,343.66,14,0.01
+1066,2025-12-01,1221,Fatima Zahra,East,Home Office,Printer,Office Supplies,3139.36,882.6,7,0.34
+1067,2025-12-02,1225,John Smith,West,Consumer,Laptop,Furniture,2396.68,1305.66,12,0.24
+1068,2025-12-03,1052,Sara Ahmed,West,Consumer,Headphones,Office Supplies,4384.64,1200.86,14,0.06
+1069,2025-12-04,1279,Michael Lee,West,Home Office,Laptop,Furniture,1393.58,328.65,6,0.11
+1070,2025-12-05,1080,Ali Khan,North,Home Office,Headphones,Office Supplies,68.33,-275.23,10,0.03
+1071,2025-12-06,1201,John Smith,North,Home Office,Printer,Furniture,854.68,-348.74,5,0.29
+1072,2025-12-07,1157,Ali Khan,West,Home Office,Headphones,Technology,1780.14,654.13,7,0.31
+1073,2025-12-08,1119,John Smith,South,Consumer,Chair,Office Supplies,1612.82,785.26,11,0.25
+1074,2025-12-09,1058,Michael Lee,East,Consumer,Headphones,Technology,3967.25,1199.69,6,0.41
+1075,2025-12-10,1214,Ali Khan,East,Corporate,Headphones,Technology,3418.78,85.03,10,0.43
+1076,2025-12-11,1127,Ayesha Noor,North,Consumer,Tablet,Office Supplies,1532.8,-165.06,2,0.31
+1077,2025-12-12,1223,Fatima Zahra,East,Home Office,Printer,Office Supplies,2315.83,258.01,13,0.01
+1078,2025-12-13,1208,Fatima Zahra,South,Corporate,Tablet,Furniture,523.02,207.15,13,0.35
+1079,2025-12-14,1114,John Smith,East,Home Office,Headphones,Furniture,4495.82,-235.06,13,0.21
+1080,2025-12-15,1208,Ayesha Noor,North,Consumer,Printer,Technology,4680.35,844.57,3,0.28
+1081,2025-12-16,1013,Ali Khan,North,Corporate,Chair,Furniture,4900.03,517.38,2,0.32
+1082,2025-12-17,1008,Ayesha Noor,South,Home Office,Printer,Furniture,4349.34,942.25,12,0.18
+1083,2025-12-18,1039,Ayesha Noor,South,Corporate,Laptop,Office Supplies,911.11,205.38,3,0.46
+1084,2025-12-19,1236,Ali Khan,East,Corporate,Tablet,Furniture,278.67,151.4,1,0.07
+1085,2025-12-20,1280,Michael Lee,East,Consumer,Printer,Technology,2919.0,445.15,8,0.34
+1086,2025-12-21,1200,Ayesha Noor,North,Home Office,Chair,Furniture,4567.39,1254.81,6,0.0
+1087,2025-12-22,1245,Ayesha Noor,South,Corporate,Desk,Technology,927.89,-419.44,13,0.46
+1088,2025-12-23,1277,Michael Lee,South,Corporate,Headphones,Office Supplies,84.86,1109.67,2,0.06
+1089,2025-12-24,1234,Ayesha Noor,South,Home Office,Printer,Technology,4037.21,237.98,8,0.05
+1090,2025-12-25,1003,Ayesha Noor,East,Corporate,Headphones,Furniture,430.14,1209.24,6,0.17
+1091,2025-12-26,1153,Ayesha Noor,South,Corporate,Mobile,Office Supplies,2097.84,1104.41,7,0.19
+1092,2025-12-27,1028,Fatima Zahra,North,Corporate,Laptop,Furniture,3410.49,197.52,11,0.11
+1093,2025-12-28,1108,Sara Ahmed,North,Home Office,Tablet,Office Supplies,1222.15,887.75,1,0.29
+1094,2025-12-29,1097,Michael Lee,East,Home Office,Laptop,Office Supplies,465.61,-180.73,7,0.22
+1095,2025-12-30,1214,Ayesha Noor,West,Home Office,Mobile,Furniture,3861.61,1292.56,3,0.02
+1096,2025-12-31,1292,Fatima Zahra,East,Home Office,Mobile,Furniture,3169.37,308.98,11,0.16
+1097,2026-01-01,1074,Michael Lee,West,Consumer,Tablet,Office Supplies,4943.03,411.25,12,0.41
+1098,2026-01-02,1145,John Smith,South,Corporate,Printer,Office Supplies,1754.32,911.52,8,0.34
+1099,2026-01-03,1127,John Smith,East,Home Office,Mobile,Furniture,355.72,1141.68,6,0.36
+1100,2026-01-04,1041,Ayesha Noor,North,Corporate,Desk,Technology,3685.03,-27.31,4,0.35
+1101,2026-01-05,1040,Fatima Zahra,South,Corporate,Headphones,Furniture,2632.58,822.7,11,0.16
+1102,2026-01-06,1033,Fatima Zahra,North,Consumer,Headphones,Office Supplies,1105.36,284.0,8,0.05
+1103,2026-01-07,1016,Michael Lee,South,Home Office,Chair,Furniture,3919.56,237.41,9,0.14
+1104,2026-01-08,1164,Michael Lee,East,Home Office,Mobile,Technology,1058.59,880.05,10,0.42
+1105,2026-01-09,1152,Fatima Zahra,West,Corporate,Mobile,Furniture,1340.28,274.37,2,0.49
+1106,2026-01-10,1075,Michael Lee,South,Home Office,Desk,Office Supplies,508.02,192.22,6,0.25
+1107,2026-01-11,1086,Fatima Zahra,West,Corporate,Laptop,Furniture,2027.19,1171.78,5,0.0
+1108,2026-01-12,1116,Sara Ahmed,South,Corporate,Laptop,Office Supplies,2123.7,-297.45,5,0.07
+1109,2026-01-13,1026,Fatima Zahra,North,Consumer,Headphones,Office Supplies,2597.08,851.79,10,0.16
+1110,2026-01-14,1286,John Smith,North,Consumer,Headphones,Furniture,3559.37,-2.55,11,0.29
+1111,2026-01-15,1133,Michael Lee,South,Consumer,Printer,Office Supplies,4535.2,-469.0,3,0.04
+1112,2026-01-16,1218,Fatima Zahra,West,Corporate,Tablet,Office Supplies,731.78,-166.47,12,0.47
+1113,2026-01-17,1167,Fatima Zahra,East,Home Office,Desk,Technology,319.02,713.32,8,0.18
+1114,2026-01-18,1097,Michael Lee,East,Consumer,Tablet,Technology,141.73,918.25,14,0.46
+1115,2026-01-19,1267,Sara Ahmed,North,Home Office,Tablet,Technology,760.93,-457.88,8,0.39
+1116,2026-01-20,1236,Sara Ahmed,East,Consumer,Chair,Technology,3306.85,-427.15,12,0.38
+1117,2026-01-21,1172,Michael Lee,North,Consumer,Tablet,Office Supplies,3651.01,1305.08,5,0.3
+1118,2026-01-22,1189,Ali Khan,East,Corporate,Chair,Furniture,3943.2,-353.39,8,0.31
+1119,2026-01-23,1121,Michael Lee,South,Consumer,Tablet,Office Supplies,1256.36,1288.36,10,0.32
+1120,2026-01-24,1045,Michael Lee,North,Consumer,Desk,Office Supplies,1564.18,-43.67,8,0.31
+1121,2026-01-25,1063,Sara Ahmed,North,Corporate,Chair,Office Supplies,2441.52,980.04,3,0.28
+1122,2026-01-26,1129,Sara Ahmed,South,Home Office,Laptop,Furniture,362.76,119.47,2,0.49
+1123,2026-01-27,1192,Michael Lee,North,Consumer,Chair,Technology,3075.15,1217.5,9,0.37
+1124,2026-01-28,1180,Michael Lee,East,Corporate,Chair,Office Supplies,4919.49,900.91,2,0.39
+1125,2026-01-29,1291,Michael Lee,East,Consumer,Desk,Office Supplies,1835.99,303.63,9,0.44
+1126,2026-01-30,1281,Sara Ahmed,North,Corporate,Desk,Technology,3776.6,-347.4,4,0.11
+1127,2026-01-31,1028,Michael Lee,East,Home Office,Chair,Office Supplies,2525.17,965.4,12,0.04
+1128,2026-02-01,1148,Michael Lee,West,Home Office,Mobile,Furniture,682.67,733.77,13,0.24
+1129,2026-02-02,1266,Ayesha Noor,North,Corporate,Desk,Office Supplies,2932.08,-494.18,2,0.26
+1130,2026-02-03,1295,Ali Khan,South,Corporate,Printer,Office Supplies,1534.38,-481.16,10,0.41
+1131,2026-02-04,1010,John Smith,West,Corporate,Printer,Technology,220.3,1117.59,1,0.22
+1132,2026-02-05,1163,Ali Khan,North,Home Office,Laptop,Office Supplies,3192.9,18.8,4,0.29
+1133,2026-02-06,1112,Ayesha Noor,South,Consumer,Tablet,Office Supplies,4301.72,772.27,9,0.26
+1134,2026-02-07,1186,John Smith,East,Home Office,Chair,Furniture,1756.61,408.43,12,0.02
+1135,2026-02-08,1294,Michael Lee,South,Corporate,Mobile,Technology,1981.96,1226.86,9,0.31
+1136,2026-02-09,1231,Ayesha Noor,West,Corporate,Laptop,Technology,4460.56,1333.92,4,0.41
+1137,2026-02-10,1226,Michael Lee,East,Home Office,Chair,Furniture,4077.36,1493.62,9,0.08
+1138,2026-02-11,1097,Sara Ahmed,North,Corporate,Desk,Office Supplies,3589.02,-192.63,12,0.3
+1139,2026-02-12,1054,Fatima Zahra,East,Home Office,Printer,Technology,1281.55,1225.93,6,0.3
+1140,2026-02-13,1110,Ayesha Noor,North,Corporate,Headphones,Technology,4555.57,32.04,1,0.08
+1141,2026-02-14,1151,Sara Ahmed,North,Consumer,Mobile,Office Supplies,814.36,681.63,10,0.06
+1142,2026-02-15,1245,Ayesha Noor,South,Consumer,Headphones,Office Supplies,3152.51,511.55,13,0.49
+1143,2026-02-16,1068,Ayesha Noor,South,Corporate,Printer,Technology,192.57,-464.02,14,0.2
+1144,2026-02-17,1288,Sara Ahmed,South,Home Office,Tablet,Office Supplies,3236.41,1365.54,6,0.11
+1145,2026-02-18,1249,John Smith,West,Consumer,Tablet,Technology,1421.86,-343.35,9,0.09
+1146,2026-02-19,1035,Ali Khan,West,Home Office,Headphones,Office Supplies,2275.9,876.44,13,0.33
+1147,2026-02-20,1238,Michael Lee,South,Corporate,Desk,Office Supplies,1759.06,1070.01,2,0.3
+1148,2026-02-21,1147,Ayesha Noor,West,Home Office,Chair,Furniture,905.15,1090.58,6,0.32
+1149,2026-02-22,1226,Michael Lee,East,Consumer,Desk,Office Supplies,3128.8,-229.01,2,0.04
+1150,2026-02-23,1243,Fatima Zahra,East,Home Office,Headphones,Furniture,4415.78,395.14,4,0.45
+1151,2026-02-24,1200,Sara Ahmed,West,Home Office,Desk,Office Supplies,4797.47,1158.86,8,0.19
+1152,2026-02-25,1153,Michael Lee,West,Corporate,Printer,Technology,1002.11,105.36,13,0.16
+1153,2026-02-26,1072,Sara Ahmed,East,Corporate,Mobile,Technology,3601.0,435.5,7,0.23
+1154,2026-02-27,1200,Michael Lee,North,Corporate,Desk,Office Supplies,3338.48,45.59,11,0.2
+1155,2026-02-28,1295,Ali Khan,East,Consumer,Printer,Office Supplies,1749.72,427.1,12,0.43
+1156,2026-03-01,1016,Ali Khan,East,Consumer,Mobile,Technology,144.54,1275.68,13,0.46
+1157,2026-03-02,1128,Ali Khan,West,Corporate,Tablet,Office Supplies,3464.47,410.25,9,0.15
+1158,2026-03-03,1216,Ali Khan,East,Corporate,Chair,Furniture,4730.2,611.82,7,0.43
+1159,2026-03-04,1060,Ali Khan,West,Consumer,Headphones,Furniture,3178.99,307.95,1,0.39
+1160,2026-03-05,1103,Ali Khan,West,Consumer,Tablet,Furniture,2204.7,420.23,2,0.47
+1161,2026-03-06,1041,Sara Ahmed,South,Consumer,Chair,Furniture,2649.51,-469.65,6,0.12
+1162,2026-03-07,1024,Ayesha Noor,East,Consumer,Tablet,Furniture,1038.16,67.49,7,0.29
+1163,2026-03-08,1038,Michael Lee,North,Corporate,Laptop,Office Supplies,3765.19,373.16,3,0.14
+1164,2026-03-09,1290,Ali Khan,South,Consumer,Tablet,Office Supplies,3744.78,767.59,9,0.41
+1165,2026-03-10,1130,Sara Ahmed,West,Corporate,Printer,Furniture,770.31,400.1,13,0.0
+1166,2026-03-11,1228,Sara Ahmed,West,Home Office,Mobile,Office Supplies,4395.99,175.63,7,0.28
+1167,2026-03-12,1107,Sara Ahmed,North,Home Office,Tablet,Office Supplies,1382.49,276.2,14,0.17
+1168,2026-03-13,1171,Ayesha Noor,West,Consumer,Desk,Furniture,4912.17,-15.41,6,0.16
+1169,2026-03-14,1101,Michael Lee,East,Home Office,Chair,Office Supplies,1945.37,1348.99,13,0.32
+1170,2026-03-15,1011,Ayesha Noor,South,Home Office,Tablet,Office Supplies,930.53,543.49,6,0.43
+1171,2026-03-16,1274,John Smith,West,Home Office,Mobile,Office Supplies,1791.01,-473.18,1,0.3
+1172,2026-03-17,1100,Sara Ahmed,West,Consumer,Printer,Furniture,2228.89,-461.11,13,0.43
+1173,2026-03-18,1043,John Smith,North,Consumer,Laptop,Office Supplies,393.07,1445.92,5,0.13
+1174,2026-03-19,1016,Fatima Zahra,East,Home Office,Chair,Technology,2912.18,-57.1,10,0.26
+1175,2026-03-20,1056,Ali Khan,West,Corporate,Headphones,Technology,3008.28,1111.22,3,0.23
+1176,2026-03-21,1011,Ali Khan,North,Home Office,Mobile,Furniture,3707.71,-383.45,7,0.01
+1177,2026-03-22,1079,Ayesha Noor,West,Consumer,Headphones,Technology,194.39,1342.33,10,0.28
+1178,2026-03-23,1215,Michael Lee,North,Consumer,Mobile,Furniture,2729.13,1248.83,3,0.33
+1179,2026-03-24,1263,John Smith,North,Consumer,Mobile,Technology,311.89,642.19,5,0.3
+1180,2026-03-25,1148,Michael Lee,East,Home Office,Printer,Technology,3520.66,-482.0,7,0.37
+1181,2026-03-26,1080,Ayesha Noor,West,Corporate,Printer,Technology,325.85,15.62,14,0.29
+1182,2026-03-27,1214,Ali Khan,East,Consumer,Printer,Furniture,4563.05,313.65,3,0.03
+1183,2026-03-28,1197,Michael Lee,North,Consumer,Tablet,Furniture,3525.31,420.13,13,0.06
+1184,2026-03-29,1199,Michael Lee,South,Home Office,Desk,Office Supplies,2561.58,95.36,13,0.3
+1185,2026-03-30,1024,Ali Khan,West,Corporate,Mobile,Furniture,2235.44,-434.1,10,0.14
+1186,2026-03-31,1088,John Smith,South,Home Office,Chair,Technology,696.83,680.25,2,0.04
+1187,2026-04-01,1267,Ali Khan,West,Consumer,Headphones,Technology,1490.45,548.31,6,0.21
+1188,2026-04-02,1142,Michael Lee,East,Corporate,Printer,Furniture,4351.35,66.0,8,0.28
+1189,2026-04-03,1058,John Smith,East,Corporate,Tablet,Furniture,4527.04,-424.05,4,0.16
+1190,2026-04-04,1025,John Smith,East,Consumer,Printer,Furniture,53.7,1489.19,9,0.36
+1191,2026-04-05,1046,Ali Khan,East,Corporate,Headphones,Office Supplies,2990.98,463.97,12,0.32
+1192,2026-04-06,1287,Michael Lee,East,Corporate,Headphones,Technology,3610.54,1012.01,12,0.17
+1193,2026-04-07,1265,Ayesha Noor,South,Home Office,Mobile,Office Supplies,3112.8,404.63,8,0.38
+1194,2026-04-08,1015,Michael Lee,East,Consumer,Printer,Office Supplies,454.31,-413.66,7,0.32
+1195,2026-04-09,1198,Sara Ahmed,North,Consumer,Headphones,Technology,1127.74,119.2,14,0.32
+1196,2026-04-10,1281,Fatima Zahra,North,Consumer,Desk,Technology,1289.18,140.22,7,0.28
+1197,2026-04-11,1085,Ayesha Noor,South,Consumer,Desk,Furniture,4167.04,1176.71,3,0.01
+1198,2026-04-12,1249,John Smith,West,Consumer,Printer,Furniture,2342.84,808.46,14,0.35
+1199,2026-04-13,1269,Ayesha Noor,North,Corporate,Tablet,Office Supplies,2459.8,50.86,6,0.19
+1200,2026-04-14,1116,John Smith,West,Home Office,Headphones,Furniture,4677.72,1435.48,13,0.47
